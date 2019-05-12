@@ -63,7 +63,10 @@ class CoNLLDataset(object):
             words, tags = [], []
             for line in f:
                 line = line.strip()
-                if (len(line) == 0 or line.startswith("-DOCSTART-")):
+                # if (len(line) == 0 or line.startswith("-DOCSTART-")):
+                # BS - Begin
+                if (line.startswith("-DOCSTART-")):
+                # BS - End
                     if len(words) != 0:
                         niter += 1
                         if self.max_iter is not None and niter > self.max_iter:
@@ -71,6 +74,10 @@ class CoNLLDataset(object):
                         yield words, tags
                         words, tags = [], []
                 else:
+                    # BS - Begin
+                    if len(line) == 0:
+                        continue
+                    # BS - End
                     ls = line.split(' ')
                     word, pos, tag = ls[0], ls[1], ls[-1]
                     if self.processing_word is not None:
@@ -79,6 +86,11 @@ class CoNLLDataset(object):
                         tag = self.processing_tag(tag)
                     words += [word]
                     tags += [tag]
+
+            # BS - Begin - To avoid skipping last sentence of every file - p2_p_train.txt/p2_p_dev.txt/p2_p_gold.txt
+            if len(words) != 0:
+                yield words, tags
+            # BS - End
 
 
 
@@ -355,8 +367,14 @@ def minibatches(data, minibatch_size):
             yield x_batch, y_batch
             x_batch, y_batch = [], []
 
+        # try:
         if type(x[0]) == tuple:
             x = zip(*x)
+        # except:
+        #     print("Error in data_utils type(x[0]) == tuple")
+        #     print("XX = ", x)
+        #     print("type(x) = ", type(x))
+
         x_batch += [x]
         y_batch += [y]
 

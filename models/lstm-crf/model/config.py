@@ -54,9 +54,13 @@ class Config():
     cwd = os.getcwd()
 
     # general config
-    dir_output = os.path.join(cwd, "results/test/")
+    dir_output = os.path.join(cwd, "results/test_sota/")
     dir_model  = os.path.join(dir_output, "model.weights/")
     path_log   = os.path.join(dir_output, "log.txt")
+
+    #Storing punctuations per abstract
+    dir_punctuations  = os.path.join(dir_output, "evaluation/punctuations")
+    dir_performance_results  = os.path.join(dir_output, "evaluation/performance_results")
 
     # embeddings
     dim_word = 200
@@ -87,9 +91,9 @@ class Config():
 
     # training
     train_embeddings = False
-    nepochs          = 15
+    nepochs          = 10
     dropout          = 0.5
-    batch_size       = 20
+    batch_size       = 1
     lr_method        = "adam"
     lr               = 0.001
     lr_decay         = 0.9

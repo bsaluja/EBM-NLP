@@ -141,10 +141,17 @@ def preprocess_data():
             pmid = fname_to_pmid(fname)
             batch_to_labels[phase][pio][batch][pmid] = open(fname).read().split()
 
-    batch_groups = [('p1_all', ['starting_spans'], ['participants', 'interventions', 'outcomes']),
-                    ('p2_p', ['hierarchical_labels'], ['participants']),
-                    ('p2_i', ['hierarchical_labels'], ['interventions']),
-                    ('p2_o', ['hierarchical_labels'], ['outcomes'])]
+    # BS - Begin (Uncomment)
+    # batch_groups = [('p1_all', ['starting_spans'], ['participants', 'interventions', 'outcomes']),
+    #                 ('p2_p', ['hierarchical_labels'], ['participants']),
+    #                 ('p2_i', ['hierarchical_labels'], ['interventions']),
+    #                 ('p2_o', ['hierarchical_labels'], ['outcomes'])]
+    # BS - End
+
+    # BS - Begin
+    batch_groups = [('p2_p', ['hierarchical_labels'], ['participants'])]
+    # BS - End
+
     for group_name, phases, pio in batch_groups:
 
       id_to_labels_list = defaultdict(list)

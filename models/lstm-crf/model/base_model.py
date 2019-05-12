@@ -143,7 +143,14 @@ class BaseModel(object):
 
         """
         self.logger.info("Testing model over test set")
-        metrics = self.run_evaluate(test)
+        metrics, labels_dict = self.run_evaluate(test)
         msg = " - ".join(["{} {:04.2f}".format(k, v)
                 for k, v in sorted(metrics.items())])
         self.logger.info(msg)
+
+        if not os.path.exists(self.config.dir_performance_results):
+            os.makedirs(self.config.dir_performance_results)
+
+        filename_performance_results = os.path.join(self.config.dir_performance_results, "performance_results.txt")
+        with open(filename_performance_results, "w") as f:
+                    f.write(str(labels_dict) + "\n" + msg)
