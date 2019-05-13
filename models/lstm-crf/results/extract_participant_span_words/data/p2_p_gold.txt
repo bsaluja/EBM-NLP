@@ -1,0 +1,5804 @@
+-DOCSTART- -X- O O 2066441
+
+periodontal JJ 4_p
+furcation NN 4_p
+pockets NNS 4_p
+. . 4_p
+
+46 CD 4_p
+upper JJ 4_p
+and CC 4_p
+lower JJR 4_p
+molars NNS 4_p
+with IN 4_p
+furcation NN 4_p
+grade NN 4_p
+II NNP 4_p
+involvement NN 4_p
+16 CD 3_p
+patients NNS 4_p
+with IN 4_p
+periodontal JJ 4_p
+disease NN 4_p
+. . N
+
+-DOCSTART- -X- O O 23021296
+
+patients NNS 4_p
+with IN 4_p
+depression NN 4_p
+. . 4_p
+
+patients NNS 4_p
+with IN 4_p
+mild JJ 4_p
+to TO 4_p
+moderate VB 4_p
+depression NN 4_p
+. . 4_p
+
+15 CD 3_p
+depressive JJ 4_p
+patients NNS 4_p
+who WP 4_p
+had VBD 4_p
+been VBN 4_p
+under IN 4_p
+antidepressant JJ 4_p
+treatment NN 4_p
+for IN 4_p
+at IN 4_p
+least JJS 4_p
+one CD 4_p
+month NN 4_p
+. . N
+
+Depressive JJ 4_p
+patients NNS 4_p
+-DOCSTART- -X- O O 25931290
+
+Children NNP 1_p
+with IN N
+Autism NNP 4_p
+Spectrum NNP 4_p
+Disorders NNPS 4_p
+: : N
+children NNS 1_p
+with IN N
+autism NN 4_p
+spectrum NN 4_p
+disorder NN 4_p
+( ( 4_p
+ASD NNP 4_p
+) ) 4_p
+. . N
+
+Participants NNS N
+were VBD N
+44 CD 3_p
+children NNS 1_p
+ages VBZ 1_p
+6-12 NN 1_p
+( ( N
+n JJ 3_p
+= $ 3_p
+22 CD 3_p
+typical JJ 3_p
+, , 3_p
+n JJ 3_p
+= FW 3_p
+22 CD 3_p
+ASD NNP 3_p
+) ) N
+. . N
+
+-DOCSTART- -X- O O 22416755
+
+Preschoolers NNS 1_p
+children NNS N
+twenty-two JJ 3_p
+3- JJ 1_p
+to TO 1_p
+4-year-olds NNS 1_p
+thirty-two JJ 3_p
+4- JJ 1_p
+to TO 1_p
+5-year-olds NNS 1_p
+-DOCSTART- -X- O O 25886492
+
+trial NN N
+invited VBD N
+25,511 CD 3_p
+people NNS N
+aged VBN 1_p
+50-74 JJ 1_p
+years NNS N
+-DOCSTART- -X- O O 22420121
+
+individuals NNS 4_p
+with IN 4_p
+autism NN 4_p
+spectrum NN 4_p
+disorder NN 4_p
+: : 4_p
+individuals NNS 4_p
+formally RB 4_p
+diagnosed VBN 4_p
+with IN 4_p
+autism NN 4_p
+spectrum NN 4_p
+disorder NN 4_p
+( ( 4_p
+ASD NNP 4_p
+) ) 4_p
+. . 4_p
+
+20 CD 3_p
+children NNS 1_p
+with IN N
+ASD NNP 4_p
+( ( N
+M NNP 1_p
+age NN 1_p
+= VBD 1_p
+14.3 CD 1_p
+yr. NN 1_p
+SD NNP 1_p
+= NNP 1_p
+4.2 CD 1_p
+; : N
+6 CD 3_p
+girls NNS N
+, , N
+14 CD 3_p
+boys NNS N
+) ) N
+in IN N
+the DT N
+role NN N
+of IN N
+speakers NNS N
+and CC N
+20 CD 3_p
+control NN N
+children NNS 1_p
+, , N
+who WP N
+acted VBD N
+as IN N
+listeners NNS N
+. . N
+
+Inclusion/exclusion NNP N
+criteria NNS N
+were VBD N
+defined VBN N
+according VBG N
+to TO N
+the DT N
+clinical JJ N
+diagnosis NN N
+of IN N
+ASD NNP N
+, , N
+the DT N
+presence NN N
+or CC N
+absence NN N
+of IN N
+additional JJ N
+or CC N
+associated JJ N
+disability NN N
+, , N
+previous JJ N
+training NN N
+in IN N
+referential JJ N
+communication NN N
+, , N
+and CC N
+any DT N
+drug NN N
+treatment NN N
+. . N
+
+individuals NNS 4_p
+with IN 4_p
+ASD NNP 4_p
+-DOCSTART- -X- O O 18189160
+
+patients NNS 4_p
+with IN 4_p
+early JJ 4_p
+breast NN 4_p
+cancer NN 4_p
+: : 4_p
+European NNP N
+patients NNS 4_p
+with IN 4_p
+early JJ 4_p
+breast NN 4_p
+cancer NN 4_p
+-DOCSTART- -X- O O 11829043
+
+patients NNS 4_p
+after IN 4_p
+stoma NN 4_p
+surgery NN 4_p
+. . 4_p
+
+Eighteen JJ 3_p
+patients NNS 4_p
+who WP 4_p
+had VBD 4_p
+undergone JJ 4_p
+stoma NN 4_p
+surgery NN 4_p
+patients NNS 4_p
+after IN 4_p
+stoma NN 4_p
+surgery NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 8779382
+
+82 CD 3_p
+patients NNS 4_p
+having VBG 4_p
+postoperative JJ 4_p
+epidural JJ 4_p
+analgesia NN 4_p
+-DOCSTART- -X- O O 25068497
+
+Cuban NNP N
+pneumococcal JJ N
+conjugate NN N
+vaccine NN N
+candidate NN N
+in IN N
+healthy JJ 4_p
+children NNS 4_p
+: : N
+in IN N
+4-5-year-old JJ 1_p
+children NNS 1_p
+-DOCSTART- -X- O O 22341427
+
+infants NNS 1_p
+with IN N
+single-ventricle JJ 4_p
+lesions NNS 4_p
+: : N
+infants NNS 1_p
+undergoing VBG 4_p
+the DT 4_p
+Norwood NNP 4_p
+procedure NN 4_p
+549 CD 3_p
+subjects NNS N
+( ( N
+follow-up JJ N
+, , N
+2.7 CD N
+± JJ N
+0.9 CD N
+years NNS N
+) ) N
+-DOCSTART- -X- O O 21393467
+
+human JJ 4_p
+-DOCSTART- -X- O O 16055807
+
+initial JJ 4_p
+prodromal JJ 4_p
+states NNS 4_p
+of IN 4_p
+psychosis NN 4_p
+in IN N
+Germany NNP 4_p
+: : N
+German JJ N
+Schizophrenia NNP N
+patients NNS N
+in IN N
+the DT N
+" NNP 4_p
+early JJ 4_p
+initial JJ 4_p
+prodromal JJ 4_p
+state NN 4_p
+" NN 4_p
+. . N
+
+patients NNS N
+in IN N
+the DT N
+" NN 4_p
+late JJ 4_p
+initial JJ 4_p
+prodromal JJ 4_p
+state NN 4_p
+" VBD 4_p
+1212 CD 3_p
+individuals NNS 4_p
+seeking VBG 4_p
+help NN 4_p
+for IN 4_p
+mental JJ 4_p
+health NN 4_p
+problems NNS 4_p
+four CD N
+university NN N
+centres NNS N
+. . N
+
+More JJR 3_p
+than IN 3_p
+388 CD 3_p
+individuals NNS 3_p
+fulfilled VBD 3_p
+criteria NNS 3_p
+for IN 3_p
+both DT 3_p
+interventions NNS 3_p
+and CC 3_p
+188 CD 3_p
+( ( 3_p
+48.5 CD 3_p
+% NN 3_p
+) ) 3_p
+gave VBD 3_p
+informed VBN 3_p
+consent NN 3_p
+to TO 3_p
+participate VB 3_p
+in IN 3_p
+the DT 3_p
+trials NNS 3_p
+. . 3_p
+
+people NNS N
+at IN N
+increased VBN N
+risk NN N
+of IN N
+developing VBG N
+psychosis NN N
+. . N
+
+-DOCSTART- -X- O O 7853069
+
+primary JJ 4_p
+care NN 4_p
+patients NNS 4_p
+with IN 4_p
+untreated JJ 4_p
+anxiety NN 4_p
+. . 4_p
+
+patients NNS 4_p
+with IN 4_p
+previously RB 4_p
+undetected VBN 4_p
+anxiety NN 4_p
+573 CD 3_p
+patients NNS 4_p
+who WP 4_p
+had VBD 4_p
+unrecognized VBN 4_p
+and CC 4_p
+untreated JJ 4_p
+anxiety NN 4_p
+identified VBN N
+from IN N
+the DT N
+approximately RB N
+8,000 CD N
+patients NNS N
+who WP N
+completed VBD N
+the DT N
+waiting VBG N
+room NN N
+screening NN N
+questionnaire NN N
+. . N
+
+-DOCSTART- -X- O O 23357440
+
+children NNS 1_p
+with IN N
+autism NN 4_p
+spectrum NN 4_p
+disorders NNS 4_p
+: : N
+children NNS 1_p
+with IN N
+high-functioning JJ 4_p
+autism NN 4_p
+spectrum NN 4_p
+disorders NNS 4_p
+( ( 4_p
+ASD NNP 4_p
+) ) 4_p
+and CC 4_p
+clinically RB 4_p
+significant JJ 4_p
+anxiety NN 4_p
+. . N
+
+45 CD 3_p
+children NNS 1_p
+( ( 1_p
+7-11 CD 1_p
+years NNS 1_p
+of IN 1_p
+age NN 1_p
+) ) 1_p
+with IN N
+high-functioning JJ 4_p
+ASD NNP 4_p
+and CC 4_p
+clinically RB 4_p
+significant JJ 4_p
+anxiety NN 4_p
+youth NN N
+with IN N
+ASD NNP N
+. . N
+
+-DOCSTART- -X- O O 24515505
+
+childhood NN 1_p
+autism NN 4_p
+spectrum NN 4_p
+disorders NNS 4_p
+. . N
+
+autism NN 4_p
+spectrum NN 4_p
+disorder NN 4_p
+( ( 4_p
+ASD NNP 4_p
+) ) 4_p
+children NNS 1_p
+aged VBD 1_p
+3 CD 1_p
+to TO 1_p
+17 CD 1_p
+years NNS 1_p
+, , N
+with IN N
+and CC N
+without IN N
+parent-reported JJ 4_p
+ASD NNP 4_p
+. . N
+
+Children NNP 4_p
+with IN 4_p
+parent-reported JJ 4_p
+ASD NNP 4_p
+-DOCSTART- -X- O O 8771302
+
+90 CD 3_p
+patients NNS 4_p
+who WP 4_p
+had VBD 4_p
+aortic JJ 4_p
+, , 4_p
+mitral JJ 4_p
+, , 4_p
+and/or JJ 4_p
+tricuspid JJ 4_p
+valve FW 4_p
+replacement NN 4_p
+with IN 4_p
+Sorin NNP 4_p
+Bicarbon NNP 4_p
+or CC 4_p
+CarboMedics NNPS 4_p
+bileaflet NN 4_p
+prostheses NNS 4_p
+. . N
+
+-DOCSTART- -X- O O 21170734
+
+Beluga NNP 4_p
+, , 4_p
+Huso NNP 4_p
+huso NN 4_p
+( ( 4_p
+L. NNP 4_p
+) ) 4_p
+Beluga NNP 4_p
+, , 4_p
+Huso NNP 4_p
+huso NN 4_p
+( ( 4_p
+L. NNP 4_p
+) ) 4_p
+for IN N
+blood NN N
+-DOCSTART- -X- O O 21211686
+
+diabetic JJ 4_p
+patients NNS 4_p
+: : N
+360 CD 3_p
+diabetic JJ 4_p
+patients NNS 4_p
+with IN 4_p
+coronary JJ 4_p
+artery NN 4_p
+disease NN 4_p
+diabetic JJ 4_p
+patients NNS 4_p
+. . 4_p
+
+diabetic JJ 4_p
+patients NNS 4_p
+with IN 4_p
+coronary JJ 4_p
+artery NN 4_p
+disease NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 22154769
+
+healthy JJ 4_p
+adults NNS 1_p
+≥60 CD 1_p
+years NNS 1_p
+of IN 1_p
+age NN 1_p
+with IN N
+210 CD 3_p
+subjects NNS N
+≥60 CD 1_p
+years NNS 1_p
+immunogenic JJ N
+in IN N
+adults NNS N
+≥60 CD N
+-DOCSTART- -X- O O 21896676
+
+The DT N
+sample NN N
+comprised VBD N
+186 CD 3_p
+patients NNS N
+( ( N
+mean JJ 1_p
+age NN 1_p
+70 CD 1_p
+years NNS 1_p
+, , N
+123 CD 3_p
+( ( N
+66 CD N
+% NN N
+) ) N
+female NN 2_p
+patients NNS N
+, , N
+130 CD 3_p
+( ( N
+70 CD N
+% NN N
+) ) N
+trauma NN 4_p
+) ) N
+who WP N
+were VBD N
+referred VBN 4_p
+for IN 4_p
+physiotherapy NN 4_p
+assessment/intervention NN 4_p
+. . N
+
+-DOCSTART- -X- O O 20147856
+
+chemo-naïve JJ 4_p
+patients NNS N
+with IN N
+advanced JJ 4_p
+non-small JJ 4_p
+cell NN 4_p
+lung NN 4_p
+cancer NN 4_p
+in IN N
+chemo-naïve JJ 4_p
+non-small JJ 4_p
+cell NN 4_p
+lung NN 4_p
+cancer NN 4_p
+patients NNS 4_p
+METHODS NNP N
+Patients NNPS N
+with IN N
+chemo-naïve JJ 4_p
+stage NN 4_p
+IIIB/IV NNP 4_p
+non-small NN 4_p
+cell NN 4_p
+lung NN 4_p
+cancer NN 4_p
+RESULTS VB N
+A DT N
+total NN N
+of IN N
+80 CD 3_p
+patients NNS N
+were VBD N
+entered VBN N
+in IN N
+this DT N
+trial NN N
+-DOCSTART- -X- O O 6920252
+
+the DT 4_p
+premature NN 4_p
+monkey NN 4_p
+: : 4_p
+premature NN 4_p
+monkey NN 4_p
+( ( 4_p
+Macaca NNP 4_p
+nemestrina RB 4_p
+) ) 4_p
+model NN 4_p
+of IN 4_p
+hyaline JJ 4_p
+membrane NN 4_p
+disease NN 4_p
+( ( 4_p
+HMD NNP 4_p
+) ) 4_p
+. . 4_p
+
+Twelve NNP 3_p
+dams VBZ 3_p
+Twelve VB 3_p
+control NN 3_p
+animals NNS 3_p
+in IN N
+this DT N
+animal JJ N
+model NN N
+; : N
+-DOCSTART- -X- O O 12960652
+
+infants NNS 1_p
+with IN N
+gastrointestinal JJ 4_p
+diseases NNS 4_p
+control NN N
+infants NNS N
+, , N
+compared VBN N
+to TO N
+infants NNS 4_p
+with IN 4_p
+different JJ 4_p
+gastrointestinal JJ 4_p
+diseases NNS 4_p
+, , N
+before IN N
+and CC N
+after IN N
+treatment NN N
+of IN N
+their PRP$ N
+disease NN N
+. . N
+
+21 CD 3_p
+patients NNS 4_p
+( ( N
+age NN 1_p
+0-2 CD 1_p
+months NNS 1_p
+) ) N
+and CC N
+40 CD 3_p
+healthy JJ 4_p
+infants NNS 1_p
+( ( N
+age NN 1_p
+0-2 CD 1_p
+months NNS 1_p
+) ) N
+patients NNS 4_p
+suffered VBD 4_p
+from IN 4_p
+partial JJ 4_p
+or CC 4_p
+total JJ 4_p
+intestinal JJ 4_p
+obstruction NN 4_p
+, , 4_p
+necrotizing VBG 4_p
+enterocolitis NN 4_p
+or CC 4_p
+pyloric JJ 4_p
+stenosis.All NN 4_p
+infants NNS 4_p
+were VBD 4_p
+fasting VBG 4_p
+infants NNS N
+with IN N
+partial JJ N
+or CC N
+total JJ N
+intestinal JJ N
+obstruction NN N
+-DOCSTART- -X- O O 8913901
+
+patients NNS 4_p
+with IN 4_p
+multivessel JJ 4_p
+coronary JJ 4_p
+artery NN 4_p
+disease NN 4_p
+4,244 CD 3_p
+BARI NNP N
+randomized VBN N
+and CC N
+registry NN 4_p
+study NN 4_p
+participants NNS 4_p
+with IN 4_p
+follow-up JJ 4_p
+ECGs NNP 4_p
+received VBD 4_p
+at IN 4_p
+the DT 4_p
+Core NNP 4_p
+ECG NNP 4_p
+Laboratory NNP 4_p
+as IN 4_p
+of IN 4_p
+March NNP 4_p
+1995 CD 4_p
+-DOCSTART- -X- O O 22881991
+
+young JJ 4_p
+children NNS 4_p
+with IN 4_p
+autism NN 4_p
+: : 4_p
+young JJ 1_p
+children NNS 1_p
+with IN N
+autism NN 4_p
+with IN 4_p
+a DT 4_p
+range NN 4_p
+of IN 4_p
+intellectual JJ 4_p
+ability NN 4_p
+. . N
+
+Participants NNPS N
+were VBD N
+55 CD 3_p
+children NNS 4_p
+with IN 4_p
+autistic JJ 4_p
+disorder NN 4_p
+, , N
+aged VBN 1_p
+4-7 CD 1_p
+years NNS 1_p
+( ( N
+FSIQ NNP N
+42-107 CD N
+) ) N
+. . N
+
+young JJ 4_p
+children NNS 4_p
+with IN 4_p
+autism NN 4_p
+young JJ 4_p
+children NNS 4_p
+with IN 4_p
+autism NN 4_p
+-DOCSTART- -X- O O 7814711
+
+Staphylococcus NNP N
+aureus NN N
+mastitis NN N
+. . N
+
+Staphylococcus NNP N
+aureus NN N
+mastitis NN N
+, , N
+37 CD 3_p
+Holstein NNP 4_p
+cows NNS 4_p
+-DOCSTART- -X- O O 20509069
+
+physical JJ 4_p
+trauma NN 4_p
+. . 4_p
+
+21 CD 3_p
+hospitalized JJ 4_p
+trauma NN 4_p
+patients NNS 4_p
+-DOCSTART- -X- O O 24989854
+
+preadolescent JJ 1_p
+children NNS 1_p
+with IN N
+autism NN 4_p
+spectrum NN 4_p
+disorders NNS 4_p
+: : N
+children NNS 4_p
+with IN 4_p
+autism NN 4_p
+spectrum NN 4_p
+disorders NNS 4_p
+( ( 4_p
+ASDs NNP 4_p
+) ) 4_p
+children NNS 4_p
+with IN 4_p
+ASD NNP 4_p
+120 CD 3_p
+participants NNS 4_p
+with IN 4_p
+ASD NNP 4_p
+at IN 4_p
+the DT 4_p
+end NN 4_p
+of IN 4_p
+primary JJ 4_p
+school NN 4_p
+( ( N
+10-12 CD 1_p
+years NNS 1_p
+of IN 1_p
+calendar NN 1_p
+age NN 1_p
+) ) N
+Dutch NNP 4_p
+children NNS 1_p
+with IN 4_p
+ASD NNP 4_p
+in IN 4_p
+a DT 4_p
+specific JJ 1_p
+age NN 1_p
+range NN 1_p
+( ( 1_p
+10-12 CD 1_p
+years NNS 1_p
+) ) 1_p
+. . 4_p
+
+-DOCSTART- -X- O O 22865017
+
+PTSD NNP 4_p
+patients NNS 4_p
+with IN 4_p
+Posttraumatic NNP 4_p
+stress NN 4_p
+disorder NN 4_p
+( ( 4_p
+PTSD NNP 4_p
+) ) 4_p
+. . 4_p
+
+PTSD NNP N
+PTSD JJ 4_p
+patients NNS N
+were VBD N
+recruited VBN N
+from IN N
+five CD 4_p
+primary JJ 4_p
+care NN 4_p
+clinics NNS 4_p
+at IN 4_p
+four CD 4_p
+Veterans NNS 4_p
+Affairs NNP 4_p
+healthcare NN 4_p
+facilities NNS 4_p
+Participants NNS N
+were VBD N
+195 CD 3_p
+Veterans NNPS 4_p
+. . N
+
+Their PRP$ N
+average JJ 1_p
+age NN 1_p
+was VBD 1_p
+45 CD 1_p
+years NNS 1_p
+, , N
+91 CD 1_p
+% NN 1_p
+were VBD 1_p
+male JJ 2_p
+, , N
+58 CD N
+% NN N
+were VBD N
+white JJ N
+, , N
+40 CD N
+% NN N
+served VBN N
+in IN N
+Iraq NNP N
+or CC N
+Afghanistan NNP N
+, , N
+and CC N
+42 CD N
+% NN N
+served VBD N
+in IN N
+Vietnam NNP N
+. . N
+
+-DOCSTART- -X- O O 18958161
+
+individuals NNS 4_p
+with IN 4_p
+autism NN 4_p
+spectrum NN 4_p
+disorders NNS 4_p
+( ( 4_p
+ASD NNP 4_p
+) ) 4_p
+. . 4_p
+
+Children NNP 1_p
+with IN N
+ASD NNP 4_p
+and CC 4_p
+typically RB 4_p
+developing VBG 4_p
+( ( 4_p
+TD NNP 4_p
+) ) 4_p
+children NNS 4_p
+-DOCSTART- -X- O O 21982657
+
+patients NNS 4_p
+with IN 4_p
+chronic JJ 4_p
+heart NN 4_p
+failure NN 4_p
+after IN 4_p
+myocardial JJ 4_p
+infarction NN 4_p
+. . 4_p
+
+patients NNS 4_p
+with IN 4_p
+heart NN 4_p
+failure NN 4_p
+( ( 4_p
+HF NNP 4_p
+) ) 4_p
+. . 4_p
+
+patients NNS 4_p
+with IN 4_p
+class NN 4_p
+II NNP 4_p
+to TO 4_p
+IV NNP 4_p
+HF NNP 4_p
+and CC 4_p
+ejection NN 4_p
+fraction NN 4_p
+< VBD 4_p
+35 CD 4_p
+% NN 4_p
+. . 4_p
+
+Of IN N
+330 CD 3_p
+patients NNS N
+intended VBN N
+for IN N
+enrollment NN N
+, , N
+23 CD 3_p
+were VBD N
+randomized VBN N
+( ( N
+MARVEL-1 NNP N
+) ) N
+before IN N
+stopping VBG N
+the DT N
+study NN N
+for IN N
+financial JJ N
+reasons NNS N
+. . N
+
+In IN N
+HF NNP N
+patients NNS N
+with IN N
+chronic JJ N
+postinfarction NN N
+cardiomyopathy NN N
+in IN N
+HF NNP N
+patients NNS N
+with IN N
+postinfarction NN N
+cardiomyopathy NN N
+-DOCSTART- -X- O O 19376304
+
+patients NNS N
+with IN N
+atrial JJ 4_p
+fibrillation NN 4_p
+( ( N
+AF NNP 4_p
+) ) N
+patients NNS N
+with IN N
+nonvalvular JJ N
+AF NNP N
+and CC N
+at IN N
+least JJS N
+1 CD N
+risk NN N
+factor NN N
+for IN N
+stroke NN N
+. . N
+
+Recruitment NNP N
+concluded VBD N
+with IN N
+a DT N
+total NN N
+of IN N
+18,113 CD 3_p
+patients NNS N
+. . N
+
+Patients NNS N
+who WP N
+were VBD N
+VKA-naive NNP N
+and CC N
+experienced VBN N
+are VBP N
+included VBN N
+in IN N
+balanced JJ N
+proportions NNS N
+. . N
+
+-DOCSTART- -X- O O 2908133
+
+anxiety NN 4_p
+: : 4_p
+92 CD 3_p
+outpatients NNS 4_p
+affected VBN 4_p
+by IN 4_p
+generalized JJ 4_p
+anxiety NN 4_p
+disorders NNS 4_p
+Seventy-eight JJ 3_p
+patients NNS N
+completed VBD N
+the DT N
+first JJ N
+period NN N
+and CC N
+75 CD 3_p
+the DT N
+whole NN N
+study NN N
+. . N
+
+-DOCSTART- -X- O O 10752495
+
+patients NNS 4_p
+with IN 4_p
+rheumatoid JJ 4_p
+arthritis NN 4_p
+: : 4_p
+patients NNS 4_p
+with IN 4_p
+rheumatoid JJ 4_p
+arthritis NN 4_p
+( ( 4_p
+RA NNP 4_p
+) ) 4_p
+. . 4_p
+
+38 CD 3_p
+patients NNS 3_p
+with IN 3_p
+RA NNP 3_p
+and CC N
+20 CD 3_p
+controls NNS 3_p
+. . N
+
+controls NNS N
+RA NNP N
+patients NNS N
+in IN N
+RA NNP N
+. . N
+
+RA NNP N
+group NN N
+RA NNP N
+-DOCSTART- -X- O O 21924760
+
+atrial JJ 4_p
+fibrillation NN 4_p
+patients NNS 4_p
+: : 4_p
+ACTIVE NNP 4_p
+W NNP 4_p
+study NN 4_p
+patients NNS 4_p
+, , 4_p
+cases NNS 4_p
+with IN 4_p
+stroke NN 4_p
+and CC 4_p
+cases NNS 4_p
+with IN 4_p
+bleeding NN 4_p
+were VBD 4_p
+separately RB 4_p
+matched VBN 4_p
+with IN 4_p
+controls NNS 4_p
+. . 4_p
+
+32 CD 3_p
+cases NNS 4_p
+with IN 4_p
+ischemic JJ 4_p
+stroke NN 4_p
+and CC N
+234 CD 3_p
+cases NNS 4_p
+with IN 4_p
+bleeding NN 4_p
+in IN N
+the DT N
+analysis NN N
+were VBD N
+matched VBN N
+122 CD N
+and CC N
+865 CD N
+controls NNS N
+lower JJR N
+in IN N
+individual JJ N
+AF NNP N
+patients NNS N
+-DOCSTART- -X- O O 11454878
+
+Recurrent JJ N
+epithelial JJ N
+ovarian JJ N
+carcinoma NN N
+: : N
+patients NNS 4_p
+with IN 4_p
+epithelial JJ 4_p
+ovarian JJ 4_p
+carcinoma NN 4_p
+that WDT 4_p
+recurred VBD 4_p
+after IN 4_p
+or CC 4_p
+did VBD 4_p
+n't RB 4_p
+respond VB 4_p
+to TO 4_p
+first-line JJ 4_p
+, , 4_p
+platinum-based JJ 4_p
+chemotherapy NN 4_p
+. . 4_p
+
+Patients NNPS 4_p
+with IN 4_p
+measurable JJ 4_p
+and CC 4_p
+assessable JJ 4_p
+disease NN 4_p
+A DT N
+total NN N
+of IN N
+474 CD 3_p
+patients NNS N
+were VBD N
+treated VBN N
+-DOCSTART- -X- O O 21866656
+
+endometriosis-related JJ 4_p
+infertility NN 4_p
+patients NNS 4_p
+endometriosis NN 4_p
+( ( 4_p
+EMs NNP 4_p
+) ) 4_p
+-related VBD 4_p
+infertility NN 4_p
+patients NNS 4_p
+. . 4_p
+
+130 CD 3_p
+EMs-related JJ 4_p
+infertility NN 4_p
+patients NNS 4_p
+of IN N
+blood NN 4_p
+stasis NN 4_p
+and CC 4_p
+toxin NN 4_p
+accumulation NN 4_p
+syndrome NN 4_p
+diagnosed VBD 4_p
+and CC 4_p
+treated VBN 4_p
+by IN 4_p
+laparoscopic NN 4_p
+surgery NN 4_p
+EMs NNP N
+patients NNS N
+of IN N
+blood NN N
+stasis NN N
+and CC N
+toxin NN N
+accumulation NN N
+syndrome NN N
+EMs-related JJ N
+infertility NN N
+. . N
+
+-DOCSTART- -X- O O 3067745
+
+Fifty-one CD 3_p
+patients NNS 4_p
+with IN N
+raised VBN 4_p
+intraocular JJ 4_p
+pressure NN 4_p
+( ( 4_p
+IOP NNP 4_p
+) ) 4_p
+-DOCSTART- -X- O O 24350813
+
+children NNS 1_p
+and CC 1_p
+adolescents NNS 1_p
+with IN N
+autistic JJ 4_p
+disorder NN 4_p
+. . N
+
+children NNS 1_p
+and CC 1_p
+adolescents NNS 1_p
+with IN N
+autistic JJ 4_p
+disorders NNS 4_p
+. . N
+
+patients NNS N
+( ( N
+5-17 JJ 1_p
+years NNS 1_p
+of IN 1_p
+age NN 1_p
+, , N
+who WP N
+completed VBD N
+the DT N
+previous JJ N
+fixed-dose JJ N
+, , N
+6 CD N
+week NN N
+, , N
+double-blind JJ N
+[ NNP N
+DB NNP N
+] NNP N
+phase NN N
+) ) N
+RESULTS VB N
+Fifty-six NNP N
+( ( N
+71 CD N
+% NN N
+) ) N
+out IN N
+of IN N
+79 CD N
+enrolled JJ N
+patients NNS N
+completed VBD N
+the DT N
+OLE NNP N
+; : N
+-DOCSTART- -X- O O 22646975
+
+patients NNS 4_p
+with IN 4_p
+inflammatory JJ 4_p
+bowel NN 4_p
+disease NN 4_p
+. . 4_p
+
+Fifty-six JJ 3_p
+outpatients NNS 3_p
+Thirty-nine JJ 3_p
+subjects NNS 3_p
+completed VBD 3_p
+the DT 3_p
+study NN 3_p
+-DOCSTART- -X- O O 2223363
+
+elderly JJ 1_p
+patients NNS 1_p
+. . 1_p
+
+60 CD 3_p
+elderly JJ 1_p
+patients NNS 1_p
+. . N
+
+-DOCSTART- -X- O O 20943715
+
+patients NNS 4_p
+with IN 4_p
+chronic JJ 4_p
+stroke NN 4_p
+. . 4_p
+
+Fifteen NNP 3_p
+subjects VBZ 4_p
+with IN 4_p
+post-stroke JJ 4_p
+hemiparesis NN 4_p
+. . N
+
+performance NN N
+of IN N
+patients NNS N
+with IN N
+post-stroke JJ 4_p
+hemiparesis NN 4_p
+-DOCSTART- -X- O O 18503531
+
+children NNS 1_p
+with IN N
+Asperger NNP 4_p
+syndrome NN 4_p
+: : N
+children NNS 1_p
+with IN N
+Asperger NNP 4_p
+syndrome NN 4_p
+( ( 4_p
+AS IN 4_p
+) ) 4_p
+: : N
+Forty-nine JJ 3_p
+children NNS 4_p
+with IN 4_p
+AS NNP 4_p
+children NNS 4_p
+with IN 4_p
+AS NNP 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 20804366
+
+autism NN 4_p
+spectrum NN 4_p
+disorder NN 4_p
+. . 4_p
+
+children NNS 1_p
+with IN N
+autism NN 4_p
+spectrum NN 4_p
+disorder NN 4_p
+. . N
+
+50 CD 3_p
+children NNS 1_p
+. . N
+
+children NNS N
+. . N
+
+children NNS 4_p
+with IN 4_p
+autism NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 20560622
+
+male JJ 2_p
+adolescents NNS 2_p
+adolescents NNS 1_p
+18 CD 3_p
+male NN 2_p
+adolescents NNS 1_p
+-DOCSTART- -X- O O 21029638
+
+schizophrenics NNS 4_p
+: : N
+schizophrenics NNS 4_p
+. . 4_p
+
+total NN N
+of IN N
+81 CD 3_p
+schizophrenics NNS 4_p
+and CC N
+psychiatric JJ N
+-DOCSTART- -X- O O 18845996
+
+metastatic JJ 4_p
+breast NN 4_p
+cancer NN 4_p
+patients NNS 4_p
+with IN 4_p
+metastatic JJ 4_p
+breast NN 4_p
+cancer NN 4_p
+( ( 4_p
+MBC NNP 4_p
+) ) 4_p
+. . 4_p
+
+MBC NNP N
+( ( N
+n JJ N
+= NNP N
+509 CD N
+) ) N
+MBC NNP N
+patients NNS 4_p
+-DOCSTART- -X- O O 12586799
+
+advanced JJ 4_p
+nasopharyngeal JJ 4_p
+carcinoma NN 4_p
+: : 4_p
+patients NNS 4_p
+with IN 4_p
+advanced JJ 4_p
+NPC NNP 4_p
+. . 4_p
+
+From NNP 4_p
+December NNP 4_p
+1993 CD 4_p
+to TO 4_p
+April NNP 4_p
+1999 CD 4_p
+, , N
+284 CD 3_p
+patients NNS 4_p
+with IN 4_p
+1992 CD 4_p
+American NNP 4_p
+Joint NNP 4_p
+Committee NNP 4_p
+on IN 4_p
+Cancer NNP 4_p
+stage NN 4_p
+III NNP 4_p
+to TO 4_p
+IV NNP 4_p
+( ( 4_p
+M0 NNP 4_p
+) ) 4_p
+NPC NNP 4_p
+patients NNS 4_p
+with IN 4_p
+advanced JJ 4_p
+NPC NNP 4_p
+in IN N
+endemic JJ N
+areas NNS N
+. . N
+
+-DOCSTART- -X- O O 22271197
+
+autism NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 23103798
+
+refractory JJ N
+monosymptomatic JJ N
+nocturnal JJ N
+enuresis NN N
+: : N
+patients NNS N
+with IN N
+refractory JJ N
+monosymptomatic JJ N
+nocturnal JJ N
+enuresis NN N
+. . N
+
+28 CD 3_p
+patients NNS N
+with IN N
+refractory JJ N
+monosymptomatic JJ N
+nocturnal JJ N
+enuresis NN N
+patients NNS N
+with IN N
+refractory JJ N
+monosymptomatic JJ N
+nocturnal JJ N
+enuresis NN N
+. . N
+
+-DOCSTART- -X- O O 7598243
+
+major JJ N
+gynecologic NN N
+surgery NN N
+. . N
+
+360 CD 3_p
+ASA NNP 4_p
+physical JJ 4_p
+status NN 4_p
+I-III NNP 4_p
+patients NNS 4_p
+undergoing VBG 4_p
+total JJ 4_p
+abdominal JJ 4_p
+hysterectomy NN 4_p
+( ( 4_p
+TAH NNP 4_p
+) ) 4_p
+. . N
+
+-DOCSTART- -X- O O 25479285
+
+cardiovascular VB N
+preventive JJ N
+treatment NN N
+303 CD 3_p
+patients NNS 4_p
+taking VBG 4_p
+blood NN 4_p
+pressure NN 4_p
+and/or IN 4_p
+lipid-lowering JJ 4_p
+medications NNS 4_p
+-DOCSTART- -X- O O 24960665
+
+Tunisians NNS 4_p
+: : 4_p
+370 CD 3_p
+RH:1 NNP 4_p
+Tunisian JJ 3_p
+donors NNS 3_p
+370 CD 3_p
+donors NNS 3_p
+Tunisians NNPS N
+. . N
+
+-DOCSTART- -X- O O 15854186
+
+flexible JJ 4_p
+nasendoscopy NN 4_p
+: : 4_p
+98 CD 3_p
+patients NNS 3_p
+flexible JJ 4_p
+nasendoscopy NN 4_p
+. . 4_p
+
+flexible JJ 4_p
+nasendoscopy NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 2088233
+
+localized VBN 4_p
+juvenile NN 4_p
+periodontitis NN 4_p
+. . 4_p
+
+16 CD 3_p
+patients NNS 4_p
+with IN 4_p
+localized JJ 4_p
+juvenile NN 4_p
+periodontitis NN 4_p
+. . N
+
+patients NNS 4_p
+with IN 4_p
+localized JJ 4_p
+juvenile NN 4_p
+periodontitis NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 1968178
+
+ten JJ 3_p
+normotensive JJ 4_p
+and CC N
+seven CD 3_p
+hypertensive JJ 4_p
+subjects NNS N
+( ( N
+hypertensive JJ N
+and CC N
+normotensive JJ N
+subjects NNS N
+-DOCSTART- -X- O O 10764172
+
+abdominal JJ N
+surgery NN N
+. . N
+
+patients NNS N
+who WP N
+underwent JJ 4_p
+hysterectomy NN 4_p
+. . N
+
+Forty NNP 3_p
+patients NNS 3_p
+were VBD 3_p
+divided VBN 3_p
+into IN 3_p
+four CD 3_p
+groups NNS 3_p
+of IN 3_p
+ten NN 3_p
+. . 3_p
+
+abdominal JJ N
+surgery NN N
+. . N
+
+-DOCSTART- -X- O O 9394106
+
+patients NNS 4_p
+with IN 4_p
+alcoholic JJ 4_p
+liver NN 4_p
+disease NN 4_p
+-- : N
+a DT N
+patients NNS 4_p
+with IN 4_p
+alcoholic JJ 4_p
+liver NN 4_p
+disease NN 4_p
+. . 4_p
+
+Fifty JJ 3_p
+patients NNS 4_p
+with IN 4_p
+alcoholic JJ 4_p
+liver NN 4_p
+disease NN 4_p
+( ( 4_p
+27 CD 3_p
+with IN 4_p
+cirrhosis NN 4_p
+, , 4_p
+23 CD 3_p
+without IN 4_p
+cirrhosis NN 4_p
+) ) 4_p
+15 CD 3_p
+healthy JJ 4_p
+controls NNS 4_p
+. . N
+
+patients NNS 4_p
+with IN 4_p
+alcoholic JJ 4_p
+liver NN 4_p
+disease NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 10475150
+
+healthy JJ 4_p
+volunteers NNS 4_p
+and CC 4_p
+in IN 4_p
+patients NNS 4_p
+with IN 4_p
+primary JJ 4_p
+hypothyroidism NN 4_p
+. . 4_p
+
+8 CD 3_p
+healthy JJ 4_p
+volunteers NNS 4_p
+, , N
+and CC N
+6 CD 3_p
+women NNS 2_p
+with IN N
+untreated JJ 4_p
+primary JJ 4_p
+hypothyroidism NN 4_p
+healthy JJ 4_p
+volunteers NNS 4_p
+healthy JJ N
+controls NNS N
+The DT N
+patients NNS 4_p
+with IN 4_p
+hypothyroidism NN 4_p
+normal JJ 4_p
+subjects NNS 4_p
+and CC 4_p
+in IN 4_p
+patients NNS 4_p
+with IN 4_p
+primary JJ 4_p
+hypothyroidism NN 4_p
+-DOCSTART- -X- O O 7017018
+
+in IN N
+renal JJ 4_p
+transplant NN 4_p
+recipients NNS 4_p
+. . N
+
+75 CD 3_p
+children NNS 1_p
+after IN 4_p
+renal JJ 4_p
+transplantation NN 4_p
+-DOCSTART- -X- O O 19301724
+
+after IN N
+total JJ 4_p
+knee NN 4_p
+arthroplasty NN 4_p
+( ( 4_p
+TKA NNP 4_p
+) ) 4_p
+. . 4_p
+
+61 CD 3_p
+ASA NNP 4_p
+physical JJ 4_p
+status NN 4_p
+I-III NNP 4_p
+patients NNS 4_p
+scheduled VBN 4_p
+for IN 4_p
+elective JJ 4_p
+unilateral JJ 4_p
+total NN 4_p
+knee NN 4_p
+arthroplasty NN 4_p
+( ( 4_p
+TKA NNP 4_p
+) ) 4_p
+under IN 4_p
+spinal JJ 4_p
+anesthesia NN 4_p
+( ( 4_p
+SA NNP 4_p
+) ) 4_p
+-DOCSTART- -X- O O 18975051
+
+10 CD 3_p
+patients NNS 3_p
+in IN 3_p
+each DT 3_p
+group NN 3_p
+. . 3_p
+
+-DOCSTART- -X- O O 9730996
+
+severe JJ 4_p
+bronchiectasis NN 4_p
+. . 4_p
+
+bronchiectasis NN N
+. . N
+
+Twenty-four CD 3_p
+patients NNS N
+( ( N
+12 CD 3_p
+female NN N
+; : N
+mean JJ 1_p
+age NN 1_p
+51 CD 1_p
+yr NN 1_p
+) ) N
+bronchiectasis NN N
+. . N
+
+bronchiectasis NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 8911223
+
+adults NNS 4_p
+with IN 4_p
+autistic JJ 4_p
+disorder NN 4_p
+. . 4_p
+
+Thirty NNP 3_p
+adults NNS 1_p
+with IN N
+autistic JJ 4_p
+disorder NN 4_p
+autistic JJ N
+disorder NN N
+in IN N
+adults NNS N
+. . N
+
+-DOCSTART- -X- O O 1131298
+
+10 CD 3_p
+healthy JJ 4_p
+subjects NNS 4_p
+. . N
+
+-DOCSTART- -X- O O 7707420
+
+first-degree JJ 4_p
+relatives NNS 4_p
+of IN 4_p
+index NN 4_p
+breast NN 4_p
+cancer NN 4_p
+patients NNS 4_p
+200 CD 3_p
+women NNS 2_p
+aged VBN 1_p
+35 CD 1_p
+years NNS 1_p
+and CC 1_p
+older JJR 1_p
+who WP N
+had VBD N
+a DT N
+family NN 4_p
+history NN 4_p
+of IN 4_p
+breast NN 4_p
+cancer NN 4_p
+in IN 4_p
+a DT 4_p
+first-degree JJ 4_p
+relative NN 4_p
+. . N
+
+Women NNS 4_p
+with IN N
+a DT N
+personal JJ 4_p
+history NN 4_p
+of IN 4_p
+cancer NN 4_p
+were VBD N
+excluded VBN N
+. . N
+
+-DOCSTART- -X- O O 15848261
+
+stroke NN 4_p
+patients NNS 4_p
+] VBP 4_p
+post-acute JJ 4_p
+hemiparetic JJ 4_p
+patients NNS 4_p
+Twenty-six JJ 3_p
+patients NNS 4_p
+within IN 4_p
+3 CD 4_p
+months NNS 4_p
+of IN 4_p
+onset NN 4_p
+of IN 4_p
+stroke NN 4_p
+-DOCSTART- -X- O O 6418441
+
+asthma NN 4_p
+in IN N
+adults NNS 1_p
+31 CD 3_p
+adult NN 1_p
+asthmatic JJ 4_p
+patients NNS N
+-DOCSTART- -X- O O 9573502
+
+patients NNS 4_p
+with IN 4_p
+hemodynamically RB 4_p
+decompensated VBN 4_p
+heart NN 4_p
+failure NN 4_p
+. . 4_p
+
+16 CD 3_p
+decompensated JJ 4_p
+heart NN 4_p
+failure NN 4_p
+patients NNS 4_p
+decompensated JJ N
+heart NN N
+failure NN N
+. . N
+
+-DOCSTART- -X- O O 7827398
+
+elderly JJ 1_p
+patients NNS 1_p
+in IN N
+older JJR 1_p
+patients NNS 1_p
+. . N
+
+Old NNP 4_p
+Patients NNPS 4_p
+with IN 4_p
+Hypertension NNP 4_p
+older JJR 4_p
+patients NNS 4_p
+( ( 4_p
+> JJ 4_p
+60 CD 4_p
+years NNS 4_p
+) ) 4_p
+with IN 4_p
+both DT 4_p
+diastolic JJ 4_p
+and CC 4_p
+isolated JJ 4_p
+systolic JJ 4_p
+hypertension NN 4_p
+. . 4_p
+
+older JJR N
+patients NNS N
+. . N
+
+older JJR 4_p
+individuals NNS 4_p
+with IN 4_p
+hypertension NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 1459268
+
+in IN N
+vitro JJ N
+fertilization NN N
+in IN 4_p
+vitro JJ 4_p
+fertilization NN 4_p
+( ( 4_p
+IVF NNP 4_p
+) ) 4_p
+Aberdeen NNP N
+Assisted NNP N
+Reproduction NNP N
+Unit NNP N
+. . N
+
+Forty-eight JJ 3_p
+patients NNS 4_p
+having VBG 4_p
+IVF NNP 4_p
+for IN 4_p
+the DT 4_p
+first JJ 4_p
+time NN 4_p
+patients NNS N
+undergoing VBG 4_p
+IVF NNP 4_p
+. . N
+
+-DOCSTART- -X- O O 1963383
+
+small JJ 4_p
+cell NN 4_p
+lung NN 4_p
+cancer NN 4_p
+] NNP 4_p
+Eighty-three JJ 3_p
+patients NNS 4_p
+with IN 4_p
+small JJ 4_p
+cell NN 4_p
+lung NN 4_p
+cancer NN 4_p
+74 CD 3_p
+patients NNS 3_p
+solid JJ 4_p
+cancer NN 4_p
+patients NNS 4_p
+-DOCSTART- -X- O O 25885649
+
+rheumatoid JJ 4_p
+arthritis NN 4_p
+patients NNS 4_p
+. . 4_p
+
+patients NNS 4_p
+with IN 4_p
+rheumatoid JJ 4_p
+arthritis NN 4_p
+( ( 4_p
+RA NNP 4_p
+) ) 4_p
+RA NNP N
+patients NNS N
+' POS N
+Sixty-eight JJ 3_p
+RA NNP 4_p
+patients NNS N
+( ( N
+age=55±13 JJ 1_p
+years NNS 1_p
+, , N
+body NN N
+mass NN N
+index NN N
+: : N
+27.8±5.4 CD N
+kg/m2 NN N
+, , N
+median NN N
+of IN N
+disease NN N
+duration=5 NN N
+( ( N
+2-8 JJ N
+) ) N
+yrs NN N
+) ) N
+in IN N
+people NNS N
+with IN N
+RA NNP N
+-DOCSTART- -X- O O 3074300
+
+non-insulin JJ 4_p
+dependent NN 4_p
+diabetes VBZ 4_p
+mellitus NN 4_p
+. . 4_p
+
+30 CD 3_p
+non-insulin JJ 4_p
+dependent NN 4_p
+( ( 4_p
+Type NNP 4_p
+II NNP 4_p
+) ) 4_p
+diabetic JJ 4_p
+subjects NNS 4_p
+Type NNP N
+II NNP N
+diabetes VBZ N
+. . N
+
+Type NNP 4_p
+II NNP 4_p
+diabetic JJ 4_p
+patients NNS N
+. . N
+
+-DOCSTART- -X- O O 20226474
+
+endobronchial JJ 4_p
+tumor NN 4_p
+lesions NNS 4_p
+. . 4_p
+
+296 CD 3_p
+patients NNS 4_p
+with IN 4_p
+visible JJ 4_p
+endoluminal JJ 4_p
+tumor NN 4_p
+lesions NNS 4_p
+were VBD 4_p
+included VBN 4_p
+bronchoscopy NN 4_p
+unit NN 4_p
+of IN 4_p
+a DT 4_p
+university NN 4_p
+hospital NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 19802506
+
+postmenopausal JJ 4_p
+breast NN 4_p
+cancer NN 4_p
+survivors NNS 4_p
+with IN 4_p
+bone JJ 4_p
+loss NN 4_p
+: : 4_p
+223 CD 3_p
+postmenopausal NN 4_p
+breast NN 4_p
+cancer NN 4_p
+survivors NNS 4_p
+. . N
+
+postmenopausal NN 4_p
+breast NN 4_p
+cancer NN 4_p
+survivors NNS 4_p
+( ( 4_p
+BCS NNP 4_p
+) ) 4_p
+with IN 4_p
+bone NN 4_p
+loss NN 4_p
+Postmenopausal NNP 4_p
+BCS NNP 4_p
+( ( N
+223 CD 3_p
+) ) N
+postmenopausal NN N
+BCS NNP N
+at IN N
+risk NN N
+for IN N
+bone NN N
+loss NN N
+. . N
+
+-DOCSTART- -X- O O 1669598
+
+asthma NN N
+due JJ N
+to TO N
+house NN N
+dust NN N
+mite NN N
+Dermatophagoides NNP N
+pteronyssinus NN N
+: : N
+10 CD 3_p
+patients NNS 4_p
+with IN 4_p
+asthma NNS 4_p
+due JJ 4_p
+to TO 4_p
+HDM NNP 4_p
+asthma NNS N
+due JJ N
+to TO N
+HDM NNP N
+. . N
+
+-DOCSTART- -X- O O 15358868
+
+adults NNS 4_p
+with IN 4_p
+autism NN 4_p
+. . 4_p
+
+adults NNS 4_p
+with IN 4_p
+autism NN 4_p
+. . 4_p
+
+adults NNS 4_p
+with IN 4_p
+autism NN 4_p
+adults NNS N
+with IN N
+autism NN N
+adults NNS N
+with IN N
+autism NN N
+-DOCSTART- -X- O O 4919024
+
+391 CD 3_p
+medical JJ 4_p
+student NN 4_p
+volunteers NNS 4_p
+during IN 4_p
+the DT 4_p
+influenza JJ 4_p
+A2 NNP 4_p
+Hong NNP 4_p
+Kong NNP 4_p
+epidemic VBP 4_p
+in IN 4_p
+Helsinki NNP 4_p
+in IN 4_p
+the DT 4_p
+winter NN 4_p
+of IN 4_p
+1969 CD 4_p
+. . N
+
+-DOCSTART- -X- O O 16427787
+
+human JJ 4_p
+-DOCSTART- -X- O O 15193668
+
+peers NNS 4_p
+' POS N
+peers NNS 4_p
+' POS N
+child NN 4_p
+with IN 4_p
+autism NN 4_p
+. . 4_p
+
+Children NNP 1_p
+( ( N
+N NNP N
+= NNP N
+576 CD 3_p
+; : N
+M NNP 1_p
+age NN 1_p
+= VBD 1_p
+10.06 CD 1_p
+) ) N
+children NNS 1_p
+'s POS 1_p
+-DOCSTART- -X- O O 23356250
+
+sickle NN 4_p
+cell NN 4_p
+anemia NN 4_p
+. . 4_p
+
+sickle NN N
+cell NN N
+anemia NN N
+( ( N
+SCA NNP N
+) ) N
+children NNS 1_p
+with IN N
+SCA NNP 4_p
+113 CD 3_p
+children NNS 1_p
+with IN N
+SCA NNP 4_p
+studied VBN N
+in IN N
+two CD N
+hospitals NNS N
+in IN N
+children NNS 1_p
+with IN N
+SCA NNP 4_p
+-DOCSTART- -X- O O 24726342
+
+stable JJ 4_p
+COPD NNP 4_p
+patients NNS 4_p
+. . 4_p
+
+COPD NNP 4_p
+patients NNS 4_p
+days NNS N
+, , N
+60 CD 3_p
+COPD NNP 4_p
+patients NNS N
+-DOCSTART- -X- O O 11381289
+
+patients NNS 4_p
+at IN 4_p
+high JJ 4_p
+risk NN 4_p
+for IN 4_p
+cardiovascular JJ 4_p
+events NNS 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 20739054
+
+chronic JJ 4_p
+immune NN 4_p
+thrombocytopenia NN 4_p
+patients NNS 4_p
+with IN 4_p
+chronic JJ 4_p
+immune JJ 4_p
+thrombocytopenia NN 4_p
+adults NNS 1_p
+with IN N
+previously RB 4_p
+treated VBN 4_p
+immune JJ 4_p
+thrombocytopenia NN 4_p
+of IN 4_p
+more JJR 4_p
+than IN 4_p
+6 CD 4_p
+months NNS 4_p
+' POS 4_p
+duration NN 4_p
+who WP N
+had VBD N
+baseline NN 4_p
+platelet NN 4_p
+counts VBZ 4_p
+lower JJR 4_p
+than IN 4_p
+30,000 CD 4_p
+per IN 4_p
+μL NN 4_p
+FINDINGS NNP N
+Between NNP N
+Nov NNP N
+22 CD N
+, , N
+2006 CD N
+, , N
+and CC N
+July NNP N
+31 CD N
+, , N
+2007 CD N
+, , N
+197 CD 3_p
+patients NNS N
+-DOCSTART- -X- O O 18773733
+
+Vibrotactile NNP N
+-- : N
+auditory JJ N
+interactions NNS N
+auditory JJ N
+stimulation NN N
+-DOCSTART- -X- O O 24803369
+
+Youth NN 1_p
+with IN N
+autism NN 4_p
+spectrum NN 4_p
+disorder NN 4_p
+Individuals NNS 4_p
+with IN 4_p
+autism NN 4_p
+spectrum NN 4_p
+disorder NN 4_p
+( ( 4_p
+ASD NNP 4_p
+) ) 4_p
+13 CD 3_p
+participants NNS 4_p
+with IN 4_p
+ASD NNP 4_p
+( ( N
+age NN 1_p
+7 CD 1_p
+; : 1_p
+03-22 CD 1_p
+; : 1_p
+03 CD 1_p
+) ) N
+and CC N
+13 CD 3_p
+age-matched JJ 4_p
+typically RB 4_p
+developing VBG 4_p
+( ( 4_p
+TD NNP 4_p
+) ) 4_p
+controls NNS 4_p
+Individuals NNS 4_p
+with IN 4_p
+ASD NNP 4_p
+-DOCSTART- -X- O O 14679127
+
+advanced JJ 4_p
+epithelial JJ 4_p
+ovarian JJ 4_p
+carcinoma NN 4_p
+. . 4_p
+
+patients NNS 4_p
+with IN 4_p
+advanced JJ 4_p
+epithelial JJ 4_p
+ovarian JJ 4_p
+cancer NN 4_p
+who WP 4_p
+had VBD 4_p
+failed VBN 4_p
+one CD 4_p
+prior JJ 4_p
+platinum-based JJ 4_p
+regimen NNS 4_p
+. . 4_p
+
+Patients NNPS 4_p
+with IN 4_p
+bidimensionally RB 4_p
+measurable JJ 4_p
+disease NN 4_p
+A DT N
+total NN N
+of IN N
+226 CD 3_p
+patients NNS N
+were VBD N
+evaluable JJ N
+for IN N
+response NN N
+. . N
+
+ovarian JJ 4_p
+cancer NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 11642083
+
+patients NNS 4_p
+on IN 4_p
+thrombolytic JJ 4_p
+therapy NN 4_p
+( ( 4_p
+TLT NNP 4_p
+) ) 4_p
+. . 4_p
+
+106 CD 3_p
+males NNS 2_p
+with IN N
+Q-MI NNP 4_p
+entered VBD N
+the DT N
+study NN N
+. . N
+
+MI NNP N
+patients NNS N
+receiving VBG N
+TLT NNP N
+-DOCSTART- -X- O O 25784723
+
+children NNS 1_p
+and CC 1_p
+young JJ 1_p
+adults NNS 4_p
+after IN 4_p
+repair NN 4_p
+of IN 4_p
+tetralogy NN 4_p
+of IN 4_p
+Fallot NN 4_p
+: : N
+patients NNS 4_p
+with IN 4_p
+corrected JJ 4_p
+tetralogy NN 4_p
+of IN 4_p
+Fallot NNP 4_p
+. . 4_p
+
+patients NNS 4_p
+with IN 4_p
+tetralogy NN 4_p
+of IN 4_p
+Fallot NNP 4_p
+aged VBD 1_p
+10 CD 1_p
+to TO 1_p
+25 CD 1_p
+years NNS 1_p
+. . N
+
+training NN N
+in IN N
+children NNS N
+and CC N
+young JJ N
+adults NNS N
+with IN N
+repaired JJ N
+tetralogy NN N
+of IN N
+Fallot NNP N
+-DOCSTART- -X- O O 2678230
+
+16 CD 3_p
+patients NNS 4_p
+with IN 4_p
+ischaemic JJ 4_p
+heart NN 4_p
+disease NN 4_p
+. . N
+
+-DOCSTART- -X- O O 2188766
+
+congestive JJ 4_p
+heart NN 4_p
+failure NN 4_p
+. . 4_p
+
+patients NNS 4_p
+with IN 4_p
+moderate JJ 4_p
+to TO 4_p
+severe VB 4_p
+congestive JJ 4_p
+heart NN 4_p
+failure NN 4_p
+. . 4_p
+
+Seventeen JJ 3_p
+patients NNS 4_p
+on IN 4_p
+chronic JJ 4_p
+digitalis NN 4_p
+and CC 4_p
+diuretic JJ 4_p
+therapy NN 4_p
+patients NNS 4_p
+with IN 4_p
+moderate JJ 4_p
+to TO 4_p
+severe VB 4_p
+chronic JJ 4_p
+heart NN 4_p
+failure NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 22538329
+
+patients NNS 4_p
+with IN 4_p
+spotty JJ 4_p
+calcification NN 4_p
+. . 4_p
+
+A NNP N
+total NN N
+of IN N
+1,347 CD 3_p
+stable JJ 4_p
+patients NNS 4_p
+with IN 4_p
+angiographic JJ 4_p
+coronary JJ 4_p
+artery NN 4_p
+disease NN 4_p
+Patients NNS N
+with IN N
+spotty JJ N
+calcification NN N
+were VBD N
+identified VBN N
+based VBN N
+on IN N
+the DT N
+presence NN N
+of IN N
+lesions NNS N
+( ( N
+1 CD N
+to TO N
+4 CD N
+mm NNS N
+in IN N
+length NN N
+) ) N
+containing VBG N
+an DT N
+arc NN N
+of IN N
+calcification NN N
+of IN N
+< $ N
+90° CD N
+RESULTS JJ N
+Patients NNS N
+with IN N
+spotty JJ N
+calcification NN N
+were VBD N
+older JJR N
+( ( N
+age NN N
+56 CD N
+years NNS N
+vs. IN N
+54 CD N
+years NNS N
+; : N
+p VBZ N
+= $ N
+0.001 CD N
+) ) N
+, , N
+more RBR N
+likely JJ N
+to TO N
+be VB N
+male JJ N
+( ( N
+68 CD N
+% NN N
+vs. FW N
+54 CD N
+% NN N
+; : N
+0.001 CD N
+) ) N
+attenuated VBN N
+in IN N
+patients NNS N
+with IN N
+spotty JJ N
+calcification NN N
+-DOCSTART- -X- O O 22956006
+
+for IN N
+breast NN 4_p
+cancer NN 4_p
+if IN N
+patients NNS N
+receiving VBG N
+chemotherapy NN N
+for IN N
+breast NN 4_p
+cancer NN 4_p
+for IN N
+chemotherapy-naïve JJ 4_p
+patients NNS 4_p
+with IN 4_p
+breast JJ 4_p
+cancer NN 4_p
+to TO N
+8 CD N
+. . N
+
+Median JJ N
+age NN N
+of IN N
+the DT N
+94 CD 3_p
+women NNS 2_p
+was VBD N
+51 CD 1_p
+years NNS 1_p
+( ( 1_p
+range VB 1_p
+27-76 JJ 1_p
+) ) 1_p
+: : N
+-DOCSTART- -X- O O 15858959
+
+children NNS 1_p
+with IN N
+acute JJ 4_p
+diarrhoea NN 4_p
+. . N
+
+acute JJ N
+childhood NN N
+diarrhoea NN N
+children NNS 4_p
+with IN 4_p
+acute JJ 4_p
+diarrhoea NN 4_p
+. . 4_p
+
+Two CD 3_p
+hundred VBD 3_p
+children NNS 3_p
+acute JJ 4_p
+diarrhoea NN 4_p
+in IN 4_p
+children NNS 4_p
+-DOCSTART- -X- O O 19727232
+
+autistic JJ 4_p
+children NNS 1_p
+] VBP N
+autistic JJ 4_p
+children NNS 1_p
+81 CD 3_p
+cases NNS 4_p
+of IN 4_p
+autistic JJ 4_p
+children NNS 4_p
+were VBD N
+selected VBN N
+autistic JJ 4_p
+children NNS 4_p
+-DOCSTART- -X- O O 1286547
+
+borderline JJ 4_p
+hypertensive JJ 4_p
+patients NNS 4_p
+with IN 4_p
+IDDM-type NNP 4_p
+diabetes NNS 4_p
+mellitus NN 4_p
+. . 4_p
+
+Twenty-nine JJ 3_p
+IDDM NNP 4_p
+patients NNS 4_p
+with IN 4_p
+borderline JJ 4_p
+hypertension NN 4_p
+diabetic JJ 4_p
+patients NNS 4_p
+with IN 4_p
+borderline JJ 4_p
+hypertension NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 12595499
+
+in IN N
+people NNS 4_p
+at IN 4_p
+high JJ 4_p
+cardiovascular JJ 4_p
+risk NN 4_p
+: : N
+people NNS 4_p
+with IN 4_p
+diabetes NNS 4_p
+7674 CD 3_p
+participants NNS 4_p
+with IN 4_p
+albuminuria NNS 4_p
+data NNS 4_p
+at IN 4_p
+baseline NN 4_p
+and CC 4_p
+at IN 4_p
+follow-up JJ 4_p
+. . N
+
+Inclusion NN N
+criteria NNS N
+were VBD N
+known VBN N
+vascular JJ N
+disease NN N
+or CC N
+diabetes VBZ N
+plus CC N
+one CD N
+other JJ N
+cardiovascular JJ N
+risk NN N
+factor NN N
+, , N
+exclusion NN N
+criteria NNS N
+included VBD N
+heart NN N
+failure NN N
+or CC N
+known VBN N
+impaired JJ N
+left VBD N
+ventricular JJ N
+function NN N
+, , N
+dipstick-positive JJ N
+proteinuria NN N
+( ( N
+> JJ N
+1+ CD N
+) ) N
+, , N
+and CC N
+serum JJ N
+creatinine NN N
+> $ N
+2.3 CD N
+mg/dl NN N
+( ( N
+200 CD N
+microM NN N
+) ) N
+. . N
+
+People NNS N
+without IN N
+and CC N
+with IN N
+diabetes NNS N
+who WP N
+are VBP N
+at IN N
+high JJ N
+risk NN N
+for IN N
+cardiovascular JJ N
+disease NN N
+nondiabetic JJ 4_p
+and CC 4_p
+in IN 4_p
+diabetic JJ 4_p
+people NNS 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 11401641
+
+patients NNS 4_p
+insufficiently RB 4_p
+controlled VBN 4_p
+on IN 4_p
+timolol NN 4_p
+. . 4_p
+
+in IN N
+patients NNS 4_p
+with IN 4_p
+open JJ 4_p
+angle NN 4_p
+glaucoma NN 4_p
+or CC 4_p
+ocular JJ 4_p
+hypertension NN 4_p
+where WRB 4_p
+IOP NNP 4_p
+is VBZ 4_p
+not RB 4_p
+adequately RB 4_p
+controlled VBN 4_p
+with IN 4_p
+timolol NN 4_p
+. . 4_p
+
+53 CD 3_p
+patients NNS 4_p
+with IN 4_p
+primary JJ 4_p
+open JJ 4_p
+angle NN 4_p
+glaucoma NN 4_p
+, , 4_p
+capsular JJ 4_p
+glaucoma NN 4_p
+, , 4_p
+or CC 4_p
+ocular JJ 4_p
+hypertension NN 4_p
+with IN 4_p
+an DT 4_p
+IOP NNP 4_p
+of IN 4_p
+at IN 4_p
+least JJS 4_p
+21 CD 4_p
+mmHg NN 4_p
+on IN 4_p
+current JJ 4_p
+therapy NN 4_p
+-DOCSTART- -X- O O 14739125
+
+healthy JJ 4_p
+young JJ 1_p
+subjects NNS N
+Five NNP 3_p
+groups NNS 3_p
+of IN 3_p
+8 CD 3_p
+subjects NNS 3_p
+each DT 3_p
+-DOCSTART- -X- O O 10589810
+
+supportive JJ N
+periodontal JJ N
+therapy NN N
+( ( N
+SPT NNP N
+) ) N
+. . N
+
+during IN N
+supportive JJ N
+periodontal JJ N
+therapy NN N
+. . N
+
+40 CD 3_p
+subjects NNS 3_p
+-DOCSTART- -X- O O 7808649
+
+patients NNS 4_p
+suffering VBG 4_p
+from IN 4_p
+post-operative JJ 4_p
+pain NN 4_p
+after IN 4_p
+cholecystectomy NN 4_p
+. . 4_p
+
+99 CD 3_p
+patients NNS 4_p
+with IN 4_p
+severe JJ 4_p
+pain NN 4_p
+following VBG 4_p
+surgery NN 4_p
+. . N
+
+-DOCSTART- -X- O O 8916620
+
+Analysis NN N
+of IN N
+prevention NN 4_p
+program NN 4_p
+effectiveness NN N
+with IN N
+clustered VBN N
+data NNS N
+using VBG N
+generalized JJ N
+estimating NN N
+equations NNS N
+. . N
+
+Experimental JJ N
+studies NNS N
+of IN N
+prevention NN N
+programs NNS N
+often RB N
+randomize VBP N
+clusters NNS N
+of IN N
+individuals NNS N
+rather RB N
+than IN N
+individuals NNS N
+to TO N
+treatment NN N
+conditions NNS N
+. . N
+
+When WRB N
+the DT N
+correlation NN N
+among IN N
+individuals NNS N
+within IN N
+clusters NNS N
+is VBZ N
+not RB N
+accounted VBN N
+for IN N
+in IN N
+statistical JJ N
+analysis NN N
+, , N
+the DT N
+standard JJ N
+errors NNS N
+are VBP N
+biased VBN N
+, , N
+potentially RB N
+resulting VBG N
+in IN N
+misleading VBG N
+conclusions NNS N
+about IN N
+the DT N
+significance NN N
+of IN N
+treatment NN N
+effects NNS N
+. . N
+
+This DT N
+study NN N
+demonstrates VBZ N
+the DT N
+generalized JJ N
+estimating NN N
+equations NNS N
+( ( N
+GEE NNP N
+) ) N
+method NN N
+, , N
+focusing VBG N
+specifically RB N
+on IN N
+the DT N
+GEE-independent NNP N
+method NN N
+, , N
+to TO N
+control VB N
+for IN N
+within-cluster JJ N
+correlation NN N
+in IN N
+regression NN N
+models NNS N
+with IN N
+either DT N
+continuous JJ N
+or CC N
+binary JJ N
+outcomes NNS N
+. . N
+
+The DT N
+GEE-independent JJ N
+method NN N
+yields NNS N
+consistent JJ N
+and CC N
+robust JJ N
+variance NN N
+estimates NNS N
+. . N
+
+Data NNS N
+from IN N
+project NN N
+DARE NNP N
+, , N
+a DT N
+youth NN 1_p
+substance NN 4_p
+abuse NN 4_p
+prevention NN 4_p
+program NN 4_p
+, , N
+are VBP N
+used VBN N
+for IN N
+illustration NN N
+. . N
+
+-DOCSTART- -X- O O 24075141
+
+children NNS 1_p
+with IN N
+autism NN 4_p
+spectrum NN 4_p
+disorders NNS 4_p
+: : N
+children NNS 4_p
+diagnosed VBN 4_p
+with IN 4_p
+an DT 4_p
+autism NN 4_p
+spectrum NN 4_p
+disorder NN 4_p
+children NNS N
+with IN N
+autism NN N
+-DOCSTART- -X- O O 16167234
+
+after IN 4_p
+digestive JJ 4_p
+surgery NN 4_p
+] NN 4_p
+digestive JJ 4_p
+surgery NN 4_p
+patients NNS 4_p
+. . 4_p
+
+Forty NNP 3_p
+patients NNS 4_p
+who WP 4_p
+underwent VBP 4_p
+digestive JJ 4_p
+surgery NN 4_p
+digestive JJ 4_p
+surgery NN 4_p
+patients NNS 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 12477021
+
+Thirty-five JJ 3_p
+university NN 4_p
+students NNS 4_p
+were VBD 4_p
+assessed VBN 4_p
+-DOCSTART- -X- O O 21491990
+
+chronic JJ 4_p
+periodontitis NN 4_p
+: : 4_p
+Twenty-four JJ 3_p
+patients NNS 4_p
+presenting VBG N
+with IN N
+≥12 NNP N
+teeth NNS N
+with IN N
+probing VBG N
+depth NN N
+( ( N
+PD NNP N
+) ) N
+≥5 VBP N
+mm NN N
+and CC N
+bleeding NN N
+on IN N
+probing VBG N
+treatment NN N
+of IN N
+chronic JJ N
+periodontitis NN N
+-DOCSTART- -X- O O 6421395
+
+middle JJ 1_p
+aged VBN 1_p
+men NNS 1_p
+. . 1_p
+
+31 CD 3_p
+healthy JJ 4_p
+middle NNS 1_p
+aged VBN 1_p
+men NNS 1_p
+healthy JJ 4_p
+middle NN 1_p
+aged VBN 1_p
+men NNS 1_p
+-DOCSTART- -X- O O 24317958
+
+root JJ N
+canal JJ N
+Fifty-three NNP 3_p
+root NN 4_p
+canals NNS 4_p
+with IN 4_p
+two CD 4_p
+standardized JJ 4_p
+grooves NNS 4_p
+in IN 4_p
+the DT 4_p
+apical JJ 4_p
+and CC 4_p
+coronal JJ 4_p
+parts NNS 4_p
+of IN 4_p
+longitudinally RB 4_p
+split VBN 4_p
+roots NNS 4_p
+-DOCSTART- -X- O O 21106663
+
+Participants NNS N
+were VBD N
+236 CD 3_p
+heavy JJ 4_p
+drinking NN 4_p
+smokers NNS 4_p
+-DOCSTART- -X- O O 23549581
+
+patients NNS 4_p
+with IN 4_p
+chemotherapy-induced JJ 4_p
+painful JJ 4_p
+peripheral JJ 4_p
+neuropathy NN 4_p
+: : 4_p
+231 CD 3_p
+patients NNS 1_p
+who WP 1_p
+were VBD 1_p
+25 CD 1_p
+years NNS 1_p
+or CC 1_p
+older JJR 1_p
+being VBG N
+treated VBN 4_p
+at IN 4_p
+community NN 4_p
+and CC 4_p
+academic JJ 4_p
+settings NNS 4_p
+between IN 4_p
+April NNP 4_p
+2008 CD 4_p
+and CC 4_p
+March NNP 4_p
+2011 CD 4_p
+. . N
+
+grade VBN 4_p
+1 CD 4_p
+or CC 4_p
+higher JJR 4_p
+sensory NN 4_p
+neuropathy JJ 4_p
+according VBG 4_p
+to TO 4_p
+the DT 4_p
+NCI NNP 4_p
+Common NNP 4_p
+Terminology NNP 4_p
+Criteria NNP 4_p
+for IN 4_p
+Adverse NNP 4_p
+Events NNS 4_p
+and CC 4_p
+at IN 4_p
+least JJS 4_p
+4 CD 4_p
+on IN 4_p
+a DT 4_p
+scale NN 4_p
+of IN 4_p
+0 CD 4_p
+to TO 4_p
+10 CD 4_p
+, , 4_p
+representing VBG 4_p
+average JJ 4_p
+chemotherapy-induced JJ 4_p
+pain NN 4_p
+, , 4_p
+after IN 4_p
+paclitaxel NN 4_p
+, , 4_p
+other JJ 4_p
+taxane NN 4_p
+, , 4_p
+or CC 4_p
+oxaliplatin JJ 4_p
+treatment NN 4_p
+. . 4_p
+
+patients NNS 4_p
+with IN 4_p
+painful JJ 4_p
+chemotherapy-induced JJ 4_p
+peripheral JJ 4_p
+neuropathy NN 4_p
+-DOCSTART- -X- O O 10070173
+
+seasonal JJ 4_p
+allergic JJ 4_p
+rhinitis NN 4_p
+. . 4_p
+
+seasonal JJ N
+allergic JJ N
+rhinitis NN N
+( ( N
+SAR NNP N
+) ) N
+. . N
+
+Ontario NNP N
+, , N
+Quebec NNP N
+and CC N
+Manitoba NNP N
+. . N
+
+Two CD 3_p
+hundred VBD 3_p
+and CC 3_p
+eighty-four JJ 3_p
+out-patients NNS 4_p
+with IN N
+SAR NNP 4_p
+, , N
+who WP N
+were VBD N
+symptomatic JJ 4_p
+during IN 4_p
+the DT 4_p
+ragweed NN 4_p
+season NN 4_p
+, , N
+volunteered VBD N
+for IN N
+enrolment NN N
+( ( N
+243 CD 3_p
+randomized VBN N
+) ) N
+. . N
+
+SAR NNP 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 12709693
+
+outpatient JJ 4_p
+colonoscopy NN 4_p
+. . 4_p
+
+for IN N
+colonoscopy NN N
+100 CD 3_p
+adult NN 1_p
+patients NNS 1_p
+colonoscopy NN N
+-DOCSTART- -X- O O 6989377
+
+95 CD 3_p
+patients NNS 3_p
+with IN 3_p
+atherosclerotic JJ 3_p
+disease NN 3_p
+. . N
+
+-DOCSTART- -X- O O 16505427
+
+anemic JJ 4_p
+patients NNS 4_p
+with IN 4_p
+cancer NN 4_p
+. . 4_p
+
+patients NNS 4_p
+with IN 4_p
+cancer-associated JJ 4_p
+anemia NN 4_p
+. . 4_p
+
+Three CD 3_p
+hundred VBD 3_p
+sixty-five JJ 3_p
+patients NNS 3_p
+-DOCSTART- -X- O O 3081600
+
+outpatients NNS 4_p
+with IN 4_p
+a DT 4_p
+major JJ 4_p
+depressive JJ 4_p
+disorder NN 4_p
+. . 4_p
+
+outpatients NNS 4_p
+with IN 4_p
+primary JJ 4_p
+depression NN 4_p
+-DOCSTART- -X- O O 23849147
+
+status NN 4_p
+epilepticus NN 4_p
+. . 4_p
+
+status NN N
+epilepticus NN N
+720 CD 3_p
+unique JJ N
+patients NNS 4_p
+in IN 4_p
+emergency NN 4_p
+departments NNS 4_p
+and CC 4_p
+uses VBZ 4_p
+a DT 4_p
+Bayesian JJ 4_p
+adaptive JJ 4_p
+design NN 4_p
+. . N
+
+-DOCSTART- -X- O O 9481998
+
+temporomandibular JJ 4_p
+joint NN 4_p
+pain NN 4_p
+. . 4_p
+
+temporomandibular NN N
+( ( N
+TMJ NNP N
+) ) N
+joint NN N
+pain NN N
+Twenty NNP 3_p
+subjects NNS 4_p
+, , 4_p
+who WP 4_p
+have VBP 4_p
+TMJ NNP 4_p
+pain NN 4_p
+, , N
+were VBD N
+included VBN N
+for IN N
+this DT N
+study NN N
+-DOCSTART- -X- O O 6951573
+
+One CD 3_p
+hundred CD 3_p
+and CC 3_p
+twenty JJ 3_p
+patients NNS 4_p
+presenting VBG 4_p
+at IN 4_p
+Macquarie NNP 4_p
+Hospital NNP 4_p
+for IN 4_p
+admission NN 4_p
+psychiatric JJ 4_p
+patients NNS 4_p
+-DOCSTART- -X- O O 18229990
+
+autism NN 4_p
+: : 4_p
+preschool NN 1_p
+children NNS 1_p
+with IN 4_p
+autism NN 4_p
+Participants NNS N
+were VBD N
+58 CD 3_p
+children NNS 1_p
+( ( N
+46 CD 3_p
+boys NNS N
+) ) N
+with IN N
+autism NN 4_p
+between IN 1_p
+3 CD 1_p
+and CC 1_p
+4 CD 1_p
+years NNS 1_p
+of IN 1_p
+age NN 1_p
+. . N
+
+young JJ 4_p
+children NNS 4_p
+with IN 4_p
+autism NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 14763035
+
+left JJ 4_p
+ventricular JJ 4_p
+hypertrophy NN 4_p
+patients NNS 4_p
+on IN 4_p
+continuous JJ 4_p
+ambulatory JJ 4_p
+peritoneal JJ 4_p
+dialysis NN 4_p
+( ( 4_p
+CAPD NNP 4_p
+) ) 4_p
+. . 4_p
+
+24 CD 3_p
+CAPD NNP 4_p
+patients NNS 4_p
+with IN 4_p
+LVH NNP 4_p
+[ NNP 4_p
+left VBD 4_p
+ventricular JJ 4_p
+mass NN 4_p
+index NN 4_p
+( ( 4_p
+LVMi NNP 4_p
+) ) 4_p
+> VBD 4_p
+110 CD 4_p
+g/m2 NN 4_p
+for IN 4_p
+women NNS 4_p
+and CC N
+LVMi NNP 4_p
+> NNP 4_p
+137 CD 4_p
+g/m2 NN 4_p
+for IN 4_p
+men NNS 4_p
+] NNS N
+CAPD NNP N
+patients NNS N
+with IN N
+LVH NNP N
+-DOCSTART- -X- O O 11229858
+
+children NNS 1_p
+with IN N
+malaria NN 4_p
+. . N
+
+children NNS 1_p
+with IN N
+malaria NN 4_p
+malaria NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 3534803
+
+United NNP 4_p
+States NNPS 4_p
+General NNP 4_p
+surgical JJ 4_p
+patients NNS 4_p
+including VBG 4_p
+those DT 4_p
+undergoing JJ 4_p
+noncardiac JJ 4_p
+thoracic NN 4_p
+and CC 4_p
+pelvic JJ 4_p
+operations NNS 4_p
+who WP 4_p
+were VBD 4_p
+identified VBN 4_p
+at IN 4_p
+moderate JJ 4_p
+to TO 4_p
+high JJ 4_p
+risk NN 4_p
+for IN 4_p
+postop JJ 4_p
+DVT NNP 4_p
+were VBD 4_p
+included VBN 4_p
+. . 4_p
+
+Eight NNP 3_p
+hundred VBD 3_p
+and CC 3_p
+eighty JJ 3_p
+eight CD 3_p
+patients NNS N
+were VBD N
+entered VBN N
+into IN N
+this DT N
+trial NN N
+and CC N
+744 CD 3_p
+( ( N
+85 CD N
+% NN N
+) ) N
+completed VBD N
+the DT N
+study NN N
+. . N
+
+-DOCSTART- -X- O O 9816035
+
+previously RB 4_p
+untreated VBN 4_p
+advanced JJ 4_p
+breast NN 4_p
+cancer NN 4_p
+-- : 4_p
+a DT 4_p
+previously RB 4_p
+untreated VBN 4_p
+metastatic JJ 4_p
+breast NN 4_p
+cancer NN 4_p
+patients NNS 4_p
+Patients NNS 4_p
+had VBD 4_p
+to TO 4_p
+have VB 4_p
+histologically RB 4_p
+documented VBN 4_p
+measurable JJ 4_p
+breast NN 4_p
+cancer NN 4_p
+and CC 4_p
+a DT 4_p
+performance NN 4_p
+status NN 4_p
+of IN 4_p
+0-1 NNP 4_p
+. . 4_p
+
+Patients NNS 4_p
+could MD 4_p
+not RB 4_p
+have VB 4_p
+had VBN 4_p
+prior JJ 4_p
+chemotherapy NN 4_p
+for IN 4_p
+metastatic JJ 4_p
+disease NN 4_p
+. . 4_p
+
+Prior NNP 4_p
+adjuvant JJ 4_p
+chemotherapy NN 4_p
+was VBD 4_p
+permitted VBN 4_p
+. . 4_p
+
+Patients NNS 4_p
+could MD 4_p
+not RB 4_p
+have VB 4_p
+visceral JJ 4_p
+crisis NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 18337284
+
+group NN N
+A NNP N
+beta-haemolytic JJ 4_p
+streptococcal JJ 4_p
+pharyngitis NN 4_p
+. . 4_p
+
+GABHS NNP N
+pharyngitis NN N
+. . N
+
+school-based JJ 4_p
+clinic NN 4_p
+in IN 4_p
+New NNP 4_p
+Zealand NNP 4_p
+. . N
+
+Children NNP 1_p
+presenting VBG N
+with IN N
+GABHS NNP 4_p
+pharyngitis NN 4_p
+353 CD 3_p
+children NNS 4_p
+with IN 4_p
+positive JJ 4_p
+throat NN 4_p
+swabs NN 4_p
+for IN 4_p
+GABHS NNP 4_p
+GABHS NNP 4_p
+in IN 4_p
+children NNS 4_p
+with IN 4_p
+pharyngitis NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 10934569
+
+children NNS 1_p
+with IN N
+pervasive JJ 4_p
+developmental JJ 4_p
+disorder NN 4_p
+. . N
+
+Young NNP 1_p
+children NNS 1_p
+with IN N
+pervasive JJ 4_p
+developmental JJ 4_p
+disorder NN 4_p
+( ( N
+7 CD 3_p
+with IN N
+autism NN 4_p
+, , N
+8 CD 3_p
+with IN N
+pervasive JJ 4_p
+developmental JJ 4_p
+disorder NN 4_p
+not RB 4_p
+otherwise RB 4_p
+specified VBN 4_p
+-- : 4_p
+NOS NNP 4_p
+) ) N
+( ( N
+7 CD 3_p
+with IN 4_p
+autism NN 4_p
+, , N
+6 CD 3_p
+with IN 4_p
+pervasive JJ 4_p
+developmental JJ 4_p
+disorder NN 4_p
+NOS NNP 4_p
+) ) N
+Children NNP 1_p
+with IN N
+pervasive JJ 4_p
+developmental JJ 4_p
+disorder NN 4_p
+NOS NNP N
+autism NN N
+. . N
+
+-DOCSTART- -X- O O 11495215
+
+nonsmokers NNS N
+. . N
+
+Sixty NNP 3_p
+healthy JJ 4_p
+women NNS 4_p
+, , 4_p
+half NN 4_p
+of IN 4_p
+whom WP 4_p
+had VBD 4_p
+been VBN 4_p
+using VBG 4_p
+OCs NNP 4_p
+for IN 4_p
+at IN 4_p
+least JJS 4_p
+the DT 4_p
+previous JJ 4_p
+6 CD 4_p
+months NNS 4_p
+two CD 4_p
+thirds NNS 4_p
+were VBD 4_p
+smokers NNS 4_p
+One CD 4_p
+third WDT 4_p
+were VBD 4_p
+nonsmokers NNS 4_p
+. . 4_p
+
+women NNS N
+. . N
+
+nonsmoking JJ N
+women NNS N
+-DOCSTART- -X- O O 20189026
+
+patients NNS 4_p
+with IN 4_p
+acute JJ 4_p
+myocardial JJ 4_p
+infarction NN 4_p
+: : 4_p
+ST-elevation NNP N
+myocardial JJ N
+infarction NN N
+333 CD 3_p
+consecutive JJ 4_p
+adult NN 4_p
+patients NNS 4_p
+with IN 4_p
+a DT 4_p
+suspected VBN 4_p
+first JJ 4_p
+acute JJ 4_p
+myocardial JJ 4_p
+infarction NN 4_p
+82 CD 3_p
+patients NNS 4_p
+were VBD 4_p
+excluded VBN 4_p
+on IN 4_p
+arrival NN 4_p
+at IN 4_p
+hospital NN 4_p
+because IN 4_p
+they PRP 4_p
+did VBD 4_p
+not RB 4_p
+meet VB 4_p
+inclusion NN 4_p
+criteria NNS 4_p
+, , 4_p
+32 CD 3_p
+were VBD 4_p
+lost VBN 4_p
+to TO 4_p
+follow-up NN 4_p
+, , 4_p
+and CC 4_p
+77 CD 3_p
+did VBD 4_p
+not RB 4_p
+complete VB 4_p
+the DT 4_p
+follow-up JJ 4_p
+-DOCSTART- -X- O O 15133359
+
+biventricular JJ 4_p
+implantation NN 4_p
+procedures NNS N
+. . N
+
+Thirty-four JJ 3_p
+consecutive JJ 4_p
+patients NNS 4_p
+-DOCSTART- -X- O O 22435114
+
+children NNS 1_p
+with IN N
+high-functioning JJ 4_p
+autism NN 4_p
+spectrum NN 4_p
+disorders NNS 4_p
+and CC 4_p
+anxiety NN 4_p
+: : N
+Fifty NNP 3_p
+children NNS 1_p
+with IN N
+high-functioning JJ 4_p
+ASD NNP 4_p
+and CC 4_p
+anxiety NN 4_p
+RESULTS NNP N
+Forty-seven JJ 3_p
+children NNS 1_p
+completed VBN N
+either CC N
+the DT N
+CBT NNP N
+or CC N
+TAU NNP N
+condition NN N
+for IN N
+children NNS N
+with IN N
+ASD NNP N
+-DOCSTART- -X- O O 21975269
+
+3790 CD 3_p
+heterosexual JJ 4_p
+HIV-1-serodiscordant JJ 4_p
+couples NNS 4_p
+participating VBG 4_p
+in IN 4_p
+two CD 4_p
+longitudinal JJ 4_p
+studies NNS 4_p
+of IN 4_p
+HIV-1 NNP 4_p
+incidence NN 4_p
+in IN 4_p
+seven CD 4_p
+African JJ 4_p
+countries NNS 4_p
+. . N
+
+Among IN N
+1314 CD 3_p
+couples NNS 4_p
+in IN 4_p
+which WDT 4_p
+the DT 4_p
+HIV-1-seronegative JJ 4_p
+partner NN 4_p
+was VBD N
+female JJ 2_p
+p=0·03 NN N
+) ) N
+. . N
+
+Among IN N
+2476 CD N
+couples NNS N
+in IN N
+which WDT N
+the DT N
+HIV-1-seronegative JJ N
+partner NN N
+-DOCSTART- -X- O O 23392542
+
+early-stage JJ 4_p
+diabetic JJ 4_p
+nephropathy JJ 4_p
+patients NNS 4_p
+diabetic JJ N
+nephropathy NN N
+Type NNP 4_p
+2 CD 4_p
+diabetic JJ 4_p
+patients NNS 4_p
+( ( N
+N.=57 NNP 3_p
+) ) N
+were VBD N
+divided VBN N
+Diabetic NNP 4_p
+nephropathy JJ 4_p
+patients NNS 4_p
+type NN 4_p
+2 CD 4_p
+diabetes NNS 4_p
+mellitus JJ 4_p
+patients NNS 4_p
+" VBP N
+with IN N
+nephropathy JJ N
+" NN N
+patients NNS 4_p
+with IN N
+nephropathy JJ N
+-DOCSTART- -X- O O 8911222
+
+drug-free JJ 4_p
+adults NNS 1_p
+with IN N
+autistic JJ 4_p
+disorder NN 4_p
+. . N
+
+drug-free JJ 4_p
+adult NN 4_p
+patients NNS 4_p
+with IN 4_p
+autistic JJ 4_p
+disorder NN 4_p
+. . 4_p
+
+Twenty NNP 3_p
+drug-free JJ 4_p
+adults NNS 4_p
+with IN 4_p
+autistic JJ 4_p
+disorder NN 4_p
+( ( N
+16 CD 3_p
+men NNS 3_p
+and CC 3_p
+4 CD 3_p
+women NNS 3_p
+) ) N
+( ( N
+mean JJ 1_p
+[ NNP 1_p
++/- NN 1_p
+SD NNP 1_p
+] NNP 1_p
+age NN 1_p
+, , 1_p
+30.5 CD 1_p
++/- JJ 1_p
+8.5 CD 1_p
+years NNS 1_p
+) ) N
+patients NNS 4_p
+with IN 4_p
+autism NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 19159999
+
+patients NNS 4_p
+with IN 4_p
+primary JJ 4_p
+Raynaud NNP 4_p
+'s POS 4_p
+phenomenon NN 4_p
+in IN 4_p
+South NNP 4_p
+Korea NNP 4_p
+; : 4_p
+primary JJ N
+Raynaud NNP N
+'s POS N
+phenomenon NN N
+( ( N
+RP NNP N
+) ) N
+in IN N
+Korea NNP N
+. . N
+
+Ninety-three JJ 3_p
+subjects NNS 3_p
+primary JJ N
+RP NNP N
+in IN N
+Korean JJ 4_p
+patients NNS 4_p
+. . 4_p
+
+primary JJ N
+RP NNP 4_p
+patients NNS 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 20618920
+
+patients NNS 4_p
+with IN 4_p
+depression NN 4_p
+: : 4_p
+Eighty NNP 3_p
+depressed VBD 4_p
+patients NNS 4_p
+undergoing VBG 4_p
+standard JJ 4_p
+antidepressant JJ 4_p
+treatment NN 4_p
+-DOCSTART- -X- O O 25369243
+
+autism NN 4_p
+spectrum NN 4_p
+disorder NN 4_p
+: : 4_p
+children NNS 1_p
+and CC 1_p
+adolescents NNS 1_p
+with IN N
+both DT N
+ASD NNP 4_p
+and CC 4_p
+attention-deficit/hyperactivity JJ 4_p
+disorder NN 4_p
+( ( 4_p
+ADHD NNP 4_p
+) ) 4_p
+. . N
+
+97 CD 3_p
+patients NNS N
+6-17 JJ 1_p
+years NNS 1_p
+of IN 1_p
+age NN 1_p
+, , N
+with IN N
+ASD NNP 4_p
+and CC 4_p
+ADHD NNP 4_p
+-DOCSTART- -X- O O 23838728
+
+children NNS 4_p
+with IN 4_p
+autism NN 4_p
+. . 4_p
+
+children NNS 4_p
+with IN 4_p
+autism NN 4_p
+47 CD 3_p
+teachers NNS 1_p
+and CC 1_p
+children NNS 1_p
+-DOCSTART- -X- O O 7844976
+
+School JJ 4_p
+districts NNS 4_p
+-DOCSTART- -X- O O 10763172
+
+after IN 4_p
+nose JJ 4_p
+surgery NN 4_p
+61 CD 3_p
+inpatients NNS 4_p
+with IN 4_p
+the DT 4_p
+diagnosis NN 4_p
+Rhinitis NNP 4_p
+following VBG 4_p
+nasal JJ 4_p
+operation NN 4_p
+patients NNS 4_p
+following VBG 4_p
+nasal JJ 4_p
+operations NNS 4_p
+rhinitis NN 4_p
+following VBG 4_p
+nasal JJ 4_p
+operation NN 4_p
+-DOCSTART- -X- O O 2803397
+
+ear JJ 4_p
+surgery NN 4_p
+ear JJ 4_p
+microsurgical JJ 4_p
+operations NNS 4_p
+. . 4_p
+
+Simple JJ 4_p
+mastoidectomies NNS 4_p
+, , 4_p
+radical JJ 4_p
+mastoidectomies NNS 4_p
+and CC 4_p
+tympano NN 4_p
+plastics NNS 4_p
+were VBD N
+carried VBN N
+out IN N
+in IN N
+49 CD 3_p
+patients NNS N
+-DOCSTART- -X- O O 22744141
+
+preschool JJ 1_p
+children NNS 1_p
+who WP 4_p
+have VBP 4_p
+intellectual JJ 4_p
+disabilities NNS 4_p
+. . 4_p
+
+preschool NN 4_p
+children NNS 4_p
+with IN 4_p
+intellectual JJ 4_p
+disabilities NNS 4_p
+( ( 4_p
+IDs NNP 4_p
+) ) 4_p
+, , 4_p
+including VBG 4_p
+children NNS 4_p
+with IN 4_p
+Down NNP 4_p
+syndrome NN 4_p
+and CC 4_p
+children NNS 4_p
+with IN 4_p
+autism NN 4_p
+spectrum NN 4_p
+disorders NNS 4_p
+. . 4_p
+
+Seventy-seven JJ 3_p
+children NNS 1_p
+preschool JJ 4_p
+children NNS 4_p
+who WP 4_p
+have VBP 4_p
+ID NNP 4_p
+and CC 4_p
+significant JJ 4_p
+language NN 4_p
+impairments NNS 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 12576806
+
+endopyelotomy NN N
+A NNP N
+total NN N
+of IN N
+57 CD 3_p
+consecutive JJ N
+patients NNS 4_p
+with IN 4_p
+primary JJ 4_p
+ureteropelvic JJ 4_p
+junction NN 4_p
+obstruction NN 4_p
+endopyelotomy NN N
+-DOCSTART- -X- O O 17897478
+
+asthma NN N
+. . N
+
+patients NNS 4_p
+with IN 4_p
+asthma JJ 4_p
+poorly RB N
+controlled VBN N
+on IN N
+low JJ N
+dose NN N
+inhaled JJ N
+corticosteroids NNS N
+adult NN 1_p
+asthmatics NNS 4_p
+. . 4_p
+
+Sixty-six JJ 3_p
+subjects NNS 3_p
+-DOCSTART- -X- O O 17293018
+
+patients NNS 4_p
+with IN 4_p
+C. NNP 4_p
+difficile-associated JJ 4_p
+diarrhea NN 4_p
+( ( 4_p
+CDAD NNP 4_p
+) ) 4_p
+77 CD 3_p
+patients NNS 4_p
+with IN 4_p
+CDAD NNP 4_p
+patients NNS 4_p
+with IN 4_p
+CDAD NNP 4_p
+. . 4_p
+
+individuals NNS 4_p
+with IN 4_p
+CDAD NNP 4_p
+-DOCSTART- -X- O O 23417625
+
+children NNS 1_p
+with IN N
+high-functioning JJ 4_p
+autism NN 4_p
+: : N
+young JJ N
+people NNS N
+with IN N
+HFA NNP N
+. . N
+
+Eligible JJ N
+patients NNS N
+were VBD N
+children NNS 1_p
+and CC 1_p
+adolescents NNS 1_p
+with IN N
+HFA NNP 4_p
+. . N
+
+-DOCSTART- -X- O O 19096921
+
+children NNS 1_p
+with IN N
+pervasive JJ 4_p
+developmental NN 4_p
+disorders NNS 4_p
+. . N
+
+-DOCSTART- -X- O O 10912743
+
+treated JJ 4_p
+hypertensive JJ 4_p
+patients NNS 4_p
+. . 4_p
+
+hypertensive JJ 4_p
+patients NNS 4_p
+receiving VBG 4_p
+drug NN 4_p
+treatment NN 4_p
+hypertensives NNS N
+on IN N
+chronic NN N
+, , N
+stable JJ N
+antihypertensive JJ N
+therapy NN N
+. . N
+
+people NNS 4_p
+with IN 4_p
+one CD 4_p
+or CC 4_p
+more JJR 4_p
+cardiovascular JJ 4_p
+risk NN 4_p
+factors NNS 4_p
+. . 4_p
+
+Fifteen NNP N
+Italian JJ N
+hypertension NN 4_p
+units NNS N
+studied VBD N
+142 CD 3_p
+hypertensive JJ 4_p
+patients NNS N
+( ( N
+76 CD 3_p
+men NNS 3_p
+, , N
+66 CD 3_p
+women NNS 3_p
+; : N
+mean JJ 1_p
+age NN 1_p
+59 CD 1_p
++/- JJ 1_p
+5.9 CD 1_p
+years NNS 1_p
+) ) N
+treated VBD 4_p
+with IN 4_p
+different JJ 4_p
+antihypertensive JJ 4_p
+drugs NNS 4_p
+: : N
+hypertensives NNS N
+under IN N
+treatment NN N
+. . N
+
+-DOCSTART- -X- O O 21718094
+
+in IN N
+type NN 4_p
+1 CD 4_p
+diabetes NNS 4_p
+with IN N
+type JJ 4_p
+1 CD 4_p
+diabetes NNS 4_p
+( ( 4_p
+T1D NNP 4_p
+) ) 4_p
+in IN N
+24 CD 3_p
+patients NNS N
+, , N
+8-18 CD 1_p
+years NNS 1_p
+old JJ 1_p
+, , N
+with IN N
+newly RB 4_p
+diagnosed VBN 4_p
+T1D NNP 4_p
+-DOCSTART- -X- O O 17616069
+
+postpartum NN 4_p
+anemia NN N
+pospartal JJ N
+anemia NN N
+Prague NNP 4_p
+Prague NNP 4_p
+. . N
+
+50 CD 3_p
+women NNS 2_p
+with IN N
+clinical JJ 4_p
+and CC 4_p
+lab JJ 4_p
+signs NNS 4_p
+of IN 4_p
+postpartal JJ 4_p
+anemia NN 4_p
+. . N
+
+pospartal JJ N
+anemia NN N
+-DOCSTART- -X- O O 18783504
+
+smoking VBG N
+cessation NN N
+. . N
+
+Madison NNP 4_p
+, , 4_p
+WI NNP 4_p
+, , 4_p
+USA NNP 4_p
+. . N
+
+403 CD 3_p
+adult NN 4_p
+, , 4_p
+daily JJ 4_p
+smokers NNS 4_p
+without IN 4_p
+contraindications NNS 4_p
+to TO 4_p
+bupropion VB 4_p
+SR NNP 4_p
+use NN 4_p
+. . N
+
+-DOCSTART- -X- O O 19108790
+
+breast NN 4_p
+cancer NN 4_p
+surgery NN 4_p
+: : 4_p
+Japanese JJ 4_p
+patients NNS 4_p
+. . 4_p
+
+breast NN 4_p
+cancer NN 4_p
+surgery NN 4_p
+in IN 4_p
+Japanese JJ 4_p
+patients NNS 4_p
+. . 4_p
+
+Japanese JJ 4_p
+women NNS 4_p
+A DT N
+total NN N
+of IN N
+100 CD 3_p
+women NNS N
+( ( N
+mean JJ 1_p
+[ NNP 1_p
+SD NNP 1_p
+] NNP 1_p
+age NN 1_p
+, , 1_p
+52 CD 1_p
+[ NN 1_p
+7 CD 1_p
+] CD 1_p
+years NNS 1_p
+; : N
+height VBD 4_p
+, , 4_p
+154 CD 4_p
+[ NN 4_p
+6 CD 4_p
+] NNP 4_p
+cm NN 4_p
+; : N
+weight NN 4_p
+, , 4_p
+54 CD 4_p
+[ NN 4_p
+7 CD 4_p
+] NNP 4_p
+kg NN 4_p
+) ) N
+Japanese JJ N
+women NNS N
+who WP N
+underwent VBP N
+breast NN N
+cancer NN N
+surgery NN N
+. . N
+
+-DOCSTART- -X- O O 11737955
+
+the DT 1_p
+60-year-old JJ 1_p
+older JJR 1_p
+adults NNS 1_p
+( ( 1_p
+60 CD 1_p
+( ( 1_p
+SE NNP 1_p
+1 CD 1_p
+) ) 1_p
+years NNS 1_p
+; : 1_p
+BMI NNP 1_p
+26 CD 1_p
+( ( 1_p
+SE NNP 1_p
+1 CD 1_p
+) ) 1_p
+kg/m NN 1_p
+( ( 1_p
+2 CD 1_p
+) ) 1_p
+) ) 1_p
+. . N
+
+60-year-old JJ 1_p
+subjects NNS 1_p
+-DOCSTART- -X- O O 16295154
+
+parents NNS 1_p
+of IN 1_p
+children NNS 1_p
+with IN N
+autistic JJ 4_p
+spectrum NN 4_p
+disorder NN 4_p
+. . N
+
+Parents NNS 1_p
+of IN 1_p
+children NNS 1_p
+who WP N
+receive VBP N
+the DT N
+diagnosis NN 4_p
+of IN 4_p
+autistic JJ 4_p
+spectrum NN 4_p
+disorder NN 4_p
+( ( 4_p
+ASD NNP 4_p
+) ) 4_p
+parents NNS 4_p
+of IN 4_p
+children NNS 4_p
+with IN 4_p
+ASD NNP 4_p
+-DOCSTART- -X- O O 18544974
+
+school-aged JJ 1_p
+children NNS 1_p
+school-aged JJ N
+children NNS N
+. . N
+
+30 CD 3_p
+healthy JJ 4_p
+children NNS N
+. . N
+
+-DOCSTART- -X- O O 25950425
+
+patients NNS 4_p
+undergoing VBG 4_p
+laparatomy NN 4_p
+. . 4_p
+
+patients NNS N
+undergoing VBG N
+laparotomy NN N
+. . N
+
+Eighty NNP 3_p
+patients NNS N
+( ( N
+18 CD 1_p
+to TO 1_p
+65 CD 1_p
+years NNS 1_p
+of IN 1_p
+age NN 1_p
+) ) N
+undergoing VBG 4_p
+elective JJ 4_p
+laparotomy NN 4_p
+nausea NN N
+in IN N
+patients NNS N
+undergoing VBG N
+laparotomy NN N
+relief NN N
+in IN N
+patients NNS N
+undergoing VBG N
+laparatomy NN N
+-DOCSTART- -X- O O 3919804
+
+insulin NN 4_p
+dependent NN 4_p
+diabetes VBZ 4_p
+mellitus NNS 4_p
+: : 4_p
+45 CD 3_p
+type NN 4_p
+I PRP 4_p
+( ( 4_p
+insulin JJ 4_p
+dependent NN 4_p
+) ) 4_p
+diabetics NNS 4_p
+without IN 4_p
+proliferative JJ 4_p
+retinopathy NN 4_p
+-DOCSTART- -X- O O 9229602
+
+acute JJ 4_p
+allergic JJ 4_p
+conjunctivitis NN 4_p
+] NNP 4_p
+69 CD 3_p
+patients NNS 3_p
+-DOCSTART- -X- O O 1780092
+
+pain-inflammatory JJ N
+pathologies NNS N
+of IN N
+the DT N
+ear NN N
+, , N
+nose RB N
+, , N
+and CC N
+throat NN N
+] NN N
+98 CD 3_p
+patients NNS N
+aged VBN 1_p
+between IN 1_p
+18 CD 1_p
+and CC 1_p
+75 CD 1_p
+suffering VBG N
+from IN N
+pain-inflammatory JJ 4_p
+pathologies NNS 4_p
+of IN 4_p
+ENT NNP 4_p
+nature NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 8989009
+
+in IN N
+the DT 1_p
+elderly JJ 1_p
+: : N
+in IN N
+elderly JJ 1_p
+patients NNS 1_p
+. . N
+
+Eighty-five JJ 3_p
+ASA NNP 4_p
+grade NN 4_p
+I PRP 4_p
+or CC 4_p
+II NNP 4_p
+patients NNS 4_p
+( ( 4_p
+aged VBN 4_p
+60-89 CD 4_p
+yr NN 4_p
+) ) 4_p
+for IN 4_p
+elective JJ 4_p
+total JJ 4_p
+hip NN 4_p
+replacement NN 4_p
+elderly JJ 1_p
+patients NNS 1_p
+undergoing VBG 4_p
+elective JJ 4_p
+procedures NNS 4_p
+-DOCSTART- -X- O O 26278470
+
+Obsessive-Compulsive NNP 4_p
+Disorder NNP 4_p
+with IN 4_p
+Poor NNP 4_p
+Insight NNP 4_p
+: : 4_p
+poor-insight JJ N
+OCD NNP N
+. . N
+
+patients NNS 4_p
+with IN 4_p
+OCD NNP 4_p
+with IN 4_p
+poor JJ 4_p
+insight NN 4_p
+. . 4_p
+
+90 CD 3_p
+patients NNS 4_p
+with IN 4_p
+OCD NNP 4_p
+with IN 4_p
+poor JJ 4_p
+insight NN 4_p
+Patients NNPS 4_p
+with IN 4_p
+OCD NNP 4_p
+with IN 4_p
+poor JJ 4_p
+insight JJ 4_p
+patients NNS N
+with IN N
+more RBR N
+extreme JJ N
+poor JJ N
+insight NN N
+. . N
+
+-DOCSTART- -X- O O 21914768
+
+Male JJ 2_p
+students NNS 4_p
+( ( N
+N=443 NNP 3_p
+) ) N
+-DOCSTART- -X- O O 361799
+
+advanced JJ 4_p
+breast NN 4_p
+cancer NN 4_p
+. . 4_p
+
+600 CD 3_p
+cases NNS 3_p
+advanced JJ 4_p
+breast NN 4_p
+cancers NNS 4_p
+in IN 4_p
+eight CD 4_p
+French JJ 4_p
+anticancer NN 4_p
+centres NNS 4_p
+. . N
+
+603 CD 3_p
+patients NNS 3_p
+-DOCSTART- -X- O O 17321989
+
+patients NNS 4_p
+with IN 4_p
+acute JJ 4_p
+myeloid NN 4_p
+leukemia NN 4_p
+and CC 4_p
+myelodysplastic JJ 4_p
+syndromes NNS 4_p
+: : 4_p
+Japanese JJ 4_p
+patients NNS 4_p
+with IN 4_p
+acute JJ 4_p
+myeloid NN 4_p
+leukemia NN 4_p
+( ( 4_p
+AML NNP 4_p
+) ) 4_p
+or CC 4_p
+myelodysplastic JJ 4_p
+syndromes NNS 4_p
+( ( 4_p
+MDS NNP 4_p
+) ) 4_p
+during IN 4_p
+and CC 4_p
+after IN 4_p
+chemotherapy NN 4_p
+. . 4_p
+
+patients NNS 4_p
+with IN 4_p
+AML NNP 4_p
+or CC 4_p
+MDS NNP 4_p
+who WP 4_p
+received VBD 4_p
+chemotherapy NN 4_p
+-DOCSTART- -X- O O 10578479
+
+premenopausal JJ 4_p
+women NNS 2_p
+. . 4_p
+
+36 CD 3_p
+premenopausal JJ 4_p
+women NNS 2_p
+, , N
+20 CD 3_p
+of IN N
+whom WP N
+used VBD 4_p
+OC NNP 4_p
+. . N
+
+premenopausal NN 4_p
+OC NNP 4_p
+or CC N
+non-OC JJ 4_p
+users NNS 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 24080592
+
+patients NNS 4_p
+with IN 4_p
+isolated JJ 4_p
+hypertriglyceridemia NN 4_p
+. . 4_p
+
+patients NNS 4_p
+with IN 4_p
+isolated JJ 4_p
+hypertriglyceridemia NN 4_p
+. . 4_p
+
+39 CD 3_p
+patients NNS 4_p
+with IN 4_p
+elevated JJ 4_p
+triglyceride NN 4_p
+levels NNS 4_p
+and CC 4_p
+peripheral JJ 4_p
+artery NN 4_p
+sclerosis NN 4_p
+fibrinolysis NN N
+in IN N
+patients NNS N
+with IN N
+isolated JJ N
+hypertriglyceridemia NN N
+benefits NNS N
+to TO N
+patients NNS N
+with IN N
+elevated JJ N
+triglyceride NN N
+levels NNS N
+-DOCSTART- -X- O O 8726604
+
+outpatient JJ 4_p
+surgery NN 4_p
+. . 4_p
+
+47 CD 3_p
+healthy JJ 4_p
+women NNS 2_p
+undergoing VBG 4_p
+elective JJ 4_p
+ambulatory NN 4_p
+surgery NN 4_p
+. . N
+
+women NNS 2_p
+-DOCSTART- -X- O O 23114870
+
+patients NNS 4_p
+undergoing VBG 4_p
+minimally RB 4_p
+invasive JJ 4_p
+TKA NNP 4_p
+80 CD 3_p
+patients NNS 3_p
+-DOCSTART- -X- O O 10940525
+
+dogs NNS 4_p
+and CC 4_p
+cats NNS 4_p
+presented VBD 4_p
+as IN 4_p
+veterinary JJ 4_p
+patients NNS 4_p
+in IN 4_p
+North NNP 4_p
+America NNP 4_p
+. . 4_p
+
+on IN N
+dogs NNS 4_p
+and CC 4_p
+cats NNS 4_p
+dogs NNS 4_p
+and CC 4_p
+cats NNS 4_p
+showing VBG 4_p
+signs NNS 4_p
+of IN 4_p
+flea NN 4_p
+allergy NN 4_p
+dermatitis NN 4_p
+( ( 4_p
+FAD NNP 4_p
+) ) 4_p
+. . 4_p
+
+Dogs NNS 4_p
+and CC 4_p
+cats NNS 4_p
+with IN 4_p
+naturally RB 4_p
+occurring VBG 4_p
+flea NN 4_p
+infestations NNS 4_p
+, , 4_p
+some DT 4_p
+of IN 4_p
+which WDT 4_p
+also RB 4_p
+had VBD 4_p
+signs NNS 4_p
+associated VBN 4_p
+with IN 4_p
+FAD NNP 4_p
+( ( N
+220 CD 3_p
+dogs NNS 3_p
+, , 3_p
+189 CD 3_p
+cats NNS 3_p
+) ) N
+dogs NNS 4_p
+and CC 4_p
+cats NNS 4_p
+diagnosed VBD 4_p
+clinically RB 4_p
+with IN 4_p
+FAD NNP 4_p
+. . 4_p
+
+397 CD 3_p
+dogs NNS 4_p
+free JJ 4_p
+of IN 4_p
+adult NN 4_p
+heartworm NN 4_p
+infection NN 4_p
+from IN 4_p
+four CD 4_p
+heartworm-endemic JJ 4_p
+areas NNS 4_p
+of IN 4_p
+the DT 4_p
+USA NNP 4_p
+673 CD 3_p
+dogs NNS 3_p
+and CC 3_p
+347 CD 3_p
+cats NNS 3_p
+having VBG N
+an DT N
+age NN N
+range NN N
+of IN N
+6 CD N
+weeks NNS N
+to TO N
+19 CD N
+years NNS N
+19 CD 3_p
+purebred VBD 4_p
+or CC 4_p
+crossbred JJ 4_p
+Collies NNS 4_p
+( ( 4_p
+Bearded NNP 4_p
+, , 4_p
+Border NNP 4_p
+, , 4_p
+and CC 4_p
+unspecified JJ 4_p
+) ) 4_p
+. . 4_p
+
+in IN N
+dogs NNS 4_p
+and CC 4_p
+cats NNS 4_p
+dogs NNS 4_p
+and CC 4_p
+cats NNS 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 23985254
+
+postoperative JJ 4_p
+rectal JJ 4_p
+cancer NN 4_p
+patients NNS 4_p
+treated VBN 4_p
+with IN 4_p
+adjuvant JJ 4_p
+concurrent NN 4_p
+chemoradiotherapy NN 4_p
+] NNP 4_p
+postoperative JJ 4_p
+rectal JJ 4_p
+cancer NN 4_p
+patients NNS 4_p
+who WP 4_p
+received VBD 4_p
+capecitabine-based JJ 4_p
+postoperative JJ 4_p
+chemoradiotherapy NN 4_p
+( ( 4_p
+CRT NNP 4_p
+) ) 4_p
+. . 4_p
+
+Four CD 3_p
+hundred VBD 3_p
+patients NNS 4_p
+with IN 4_p
+stage NN 4_p
+II NNP 4_p
+and CC 4_p
+III NNP 4_p
+rectal JJ 4_p
+cancer NN 4_p
+received VBD 4_p
+postoperative JJ 4_p
+CRT NNP 4_p
+postoperative JJ 4_p
+stage NN 4_p
+II NNP 4_p
+and CC 4_p
+III NNP 4_p
+rectal JJ 4_p
+cancer NN 4_p
+patients NNS 4_p
+-DOCSTART- -X- O O 10390665
+
+children NNS 1_p
+. . 1_p
+
+tonsillectomy NN 4_p
+with IN 4_p
+or CC 4_p
+without IN 4_p
+adenoidectomy NN 4_p
+in IN N
+children NNS 1_p
+. . N
+
+90 CD 3_p
+paediatric JJ 1_p
+patients NNS 1_p
+, , N
+ASA NNP 1_p
+I PRP 1_p
+, , N
+aged VBN 1_p
+4-10 CD 1_p
+years NNS 1_p
+children NNS 1_p
+undergoing VBG 1_p
+general JJ 1_p
+anaesthesia NN 1_p
+for IN 4_p
+tonsillectomy NN 4_p
+. . N
+
+-DOCSTART- -X- O O 24660757
+
+Compensation NN N
+in IN N
+intergroup JJ N
+relations NNS N
+: : N
+an DT N
+investigation NN N
+of IN N
+its PRP$ N
+structural JJ N
+and CC N
+strategic JJ N
+foundations NNS N
+. . N
+
+Recent JJ N
+work NN N
+in IN N
+intergroup JJ N
+relations NNS N
+stresses VBZ N
+the DT N
+role NN N
+of IN N
+two CD N
+fundamental JJ N
+dimensions NNS N
+, , N
+competence NN N
+and CC N
+warmth NN N
+, , N
+which WDT N
+organize VBP N
+the DT N
+perception NN N
+of IN N
+social JJ N
+groups NNS N
+. . N
+
+A DT N
+pattern NN N
+often RB N
+encountered VBN N
+in IN N
+people NNS N
+'s POS N
+ratings NNS N
+is VBZ N
+one CD N
+of IN N
+compensation NN N
+in IN N
+that DT N
+a DT N
+group NN N
+that WDT N
+is VBZ N
+evaluated VBN N
+higher JJR N
+than IN N
+another DT N
+group NN N
+on IN N
+one CD N
+of IN N
+the DT N
+two CD N
+fundamental JJ N
+dimensions NNS N
+is VBZ N
+also RB N
+judged VBN N
+lower JJR N
+on IN N
+the DT N
+other JJ N
+fundamental JJ N
+dimension NN N
+. . N
+
+Based VBN N
+on IN N
+Social NNP N
+Identity NNP N
+Theory NNP N
+, , N
+the DT N
+present JJ N
+work NN N
+extends VBZ N
+previous JJ N
+research NN N
+on IN N
+compensation NN N
+by IN N
+examining VBG N
+boundary JJ N
+conditions NNS N
+as RB N
+well RB N
+as IN N
+underlying VBG N
+psychological JJ N
+processes NNS N
+. . N
+
+Two CD N
+studies NNS N
+involving VBG N
+experimental JJ N
+and CC N
+correlational JJ N
+evidence NN N
+, , N
+minimal JJ N
+and CC N
+real JJ N
+groups NNS N
+, , N
+and CC N
+different JJ N
+kinds NNS N
+of IN N
+conflict NN N
+, , N
+reveal NN N
+that IN N
+compensation NN N
+is VBZ N
+more RBR N
+likely JJ N
+when WRB N
+the DT N
+groups NNS N
+are VBP N
+in IN N
+asymmetrical JJ N
+relation NN N
+and CC N
+share NN N
+a DT N
+cooperative JJ N
+view NN N
+of IN N
+the DT N
+intergroup NN N
+setting NN N
+. . N
+
+Our PRP$ N
+data NNS N
+also RB N
+suggest VBP N
+that IN N
+, , N
+among IN N
+members NNS N
+of IN N
+low JJ N
+status NN N
+groups NNS N
+, , N
+compensation NN N
+is VBZ N
+associated VBN N
+with IN N
+social JJ N
+creativity NN N
+. . N
+
+In IN N
+contrast NN N
+, , N
+and CC N
+in IN N
+line NN N
+with IN N
+the DT N
+'noblesse NNP N
+oblige NN N
+' '' N
+effect NN N
+, , N
+members NNS N
+of IN N
+the DT N
+high JJ N
+status NN N
+group NN N
+would MD N
+seem VB N
+to TO N
+rely VB N
+on IN N
+compensation NN N
+as IN N
+a DT N
+means NN N
+to TO N
+appear VB N
+non-discriminatory JJ N
+. . N
+
+-DOCSTART- -X- O O 384815
+
+Three CD 3_p
+hundred VBD 3_p
+forty-one NN 3_p
+Tanzanian JJ 4_p
+preschool NN 1_p
+children NNS 1_p
+-DOCSTART- -X- O O 21669557
+
+Guatemala NNP N
+49 CD 3_p
+intervention NN N
+and CC N
+70 CD 3_p
+control NN N
+women NNS N
+38-84 CD 1_p
+years NNS 1_p
+of IN 1_p
+age NN 1_p
+, , N
+and CC N
+55 CD 3_p
+control NN N
+subjects NNS N
+were VBD N
+also RB N
+assessed VBN N
+after IN N
+receiving VBG N
+stoves NNS N
+. . N
+
+-DOCSTART- -X- O O 11317090
+
+persons NNS 4_p
+with IN 4_p
+osteoarthritis NN 4_p
+. . 4_p
+
+249 CD 3_p
+adults NNS 1_p
+from IN 4_p
+Washington NNP 4_p
+State NNP 4_p
+aged VBD 1_p
+55 CD 1_p
+to TO 1_p
+75 CD 1_p
+with IN N
+a DT N
+doctor-confirmed JJ 4_p
+diagnosis NN 4_p
+of IN 4_p
+osteoarthritis NN 4_p
+to TO N
+participate VB N
+in IN N
+aquatic JJ N
+classes NNS N
+. . N
+
+-DOCSTART- -X- O O 11750293
+
+recent JJ 4_p
+onset NN 4_p
+rheumatoid NN 4_p
+arthritis NN 4_p
+: : 4_p
+patients NNS 4_p
+with IN 4_p
+recently RB 4_p
+diagnosed VBN 4_p
+rheumatoid NN 4_p
+arthritis NN 4_p
+( ( 4_p
+RA NNP 4_p
+) ) 4_p
+Twenty-two JJ 3_p
+patients NNS 4_p
+with IN 4_p
+a DT 4_p
+history NN 4_p
+of IN 4_p
+recently RB 4_p
+diagnosed VBN 4_p
+RA NNP 4_p
+of IN 4_p
+less JJR 4_p
+than IN 4_p
+2 CD 4_p
+years NNS 4_p
+22 CD 3_p
+patients NNS 3_p
+recent JJ N
+onset NN N
+RA NNP N
+. . N
+
+-DOCSTART- -X- O O 11099086
+
+acute JJ 4_p
+invasive JJ 4_p
+diarrhea NN 4_p
+in IN N
+children NNS 1_p
+. . N
+
+Acute NNP N
+invasive JJ N
+diarrhea NN N
+in IN N
+children NNS 1_p
+. . 1_p
+
+acute JJ N
+invasive JJ N
+diarrhea NN N
+requiring VBG N
+an DT N
+emergency NN N
+visit NN N
+in IN N
+southern JJ N
+Israel NNP N
+. . N
+
+invasive JJ N
+diarrhea NN N
+. . N
+
+acute JJ 4_p
+invasive JJ 4_p
+diarrhea NN 4_p
+in IN N
+infants NNS 1_p
+and CC 1_p
+children NNS 1_p
+. . N
+
+201 CD 3_p
+evaluable JJ N
+children NNS 1_p
+ages VBZ 1_p
+6 CD 1_p
+months NNS 1_p
+to TO 1_p
+10 CD 1_p
+years NNS 1_p
+( ( 1_p
+35 CD 1_p
+% NN 1_p
+< CC 1_p
+1 CD 1_p
+year NN 1_p
+; : 1_p
+70 CD 1_p
+% NN 1_p
+< JJ 1_p
+3 CD 1_p
+years NNS 1_p
+) ) 1_p
+presenting VBG 4_p
+with IN 4_p
+acute JJ 4_p
+invasive JJ 4_p
+diarrhea NN 4_p
+at IN 4_p
+the DT 4_p
+Pediatric NNP 4_p
+Emergency NNP 4_p
+Room NNP 4_p
+acute JJ N
+invasive JJ N
+diarrhea NN N
+in IN N
+ambulatory JJ 4_p
+pediatric JJ 4_p
+patients NNS 4_p
+requiring VBG 4_p
+an DT 4_p
+emergency NN 4_p
+room NN 4_p
+visit NN 4_p
+. . 4_p
+
+-DOCSTART- -X- O O 22897461
+
+in IN N
+patients NNS 4_p
+with IN 4_p
+mixed JJ 4_p
+dyslipidaemia NN 4_p
+and CC 4_p
+metabolic JJ 4_p
+syndrome NN 4_p
+in IN N
+patients NNS 4_p
+with IN 4_p
+mixed JJ 4_p
+dyslipidaemia NN 4_p
+and CC 4_p
+MetS NNP 4_p
+study NN N
+, , N
+only RB N
+patients NNS 4_p
+with IN 4_p
+MetS NNP 4_p
+were VBD N
+included VBN N
+-DOCSTART- -X- O O 11891832
+
+inclusion NN 4_p
+body NN 4_p
+myositis NN 4_p
+44 CD 3_p
+patients NNS 4_p
+with IN 4_p
+inclusion NN 4_p
+body NN 4_p
+myositis NN 4_p
+-DOCSTART- -X- O O 19708562
+
+patients NNS 4_p
+with IN 4_p
+gastric JJ 4_p
+ulcer JJ 4_p
+] NN 4_p
+100 CD 3_p
+patients NNS 4_p
+with IN 4_p
+gastric JJ 4_p
+ulcer NNS 4_p
+aged VBN 1_p
+from IN 1_p
+16 CD 1_p
+to TO 1_p
+60 CD 1_p
+years NNS 1_p
+. . N
+
+-DOCSTART- -X- O O 26210844
+
+Autism NNP 4_p
+Spectrum NNP 4_p
+Disorders NNP 4_p
+in IN N
+Toddlers NNP 1_p
+. . N
+
+autism NN 4_p
+spectrum NN 4_p
+disorders NNS 4_p
+( ( 4_p
+ASD NNP 4_p
+) ) 4_p
+in IN N
+toddlers NNS 1_p
+toddlers NNS 4_p
+with IN 4_p
+ASD NNP 4_p
+from IN 4_p
+toddlers NNS 4_p
+with IN 4_p
+developmental JJ 4_p
+delay NN 4_p
+( ( 4_p
+DD NNP 4_p
+) ) 4_p
+/non-ASD NN 4_p
+in IN 4_p
+an DT 4_p
+early JJ 4_p
+childhood NN 4_p
+clinic NN 4_p
+. . 4_p
+
+toddlers NNS 1_p
+with IN 4_p
+no DT 4_p
+developmental JJ 4_p
+concerns NNS 4_p
+. . 4_p
+
+A DT 3_p
+total NN 3_p
+of IN 3_p
+61 CD 3_p
+toddlers NNS 3_p
+were VBD N
+enrolled VBN N
+. . N
+
+ASD NNP 4_p
+in IN 4_p
+toddlers NNS 4_p
+-DOCSTART- -X- O O 25898782
+
+retrograde NN 4_p
+cholangiopancreatography NN 4_p
+: : 4_p
+study NN N
+included VBD N
+281 CD 3_p
+adults NNS 1_p
+in IN N
+301 CD N
+procedures NNS N
+. . N
+
+-DOCSTART- -X- O O 15014018
+
+Nearly RB 3_p
+2000 CD 3_p
+patients NNS 4_p
+with IN 4_p
+stage NN 4_p
+IIB NNP 4_p
+and CC 4_p
+III NNP 4_p
+melanoma NNS 4_p
+patients NNS 4_p
+with IN 4_p
+high-risk JJ 4_p
+resected JJ 4_p
+melanoma NN 4_p
+-DOCSTART- -X- O O 24451919
+
+ADHD NNP 4_p
+and CC 4_p
+Autism NNP 4_p
+. . 4_p
+
+Attention NNP 4_p
+deficit NN 4_p
+hyperactivity NN 4_p
+disorder NN 4_p
+( ( 4_p
+ADHD NNP 4_p
+) ) 4_p
+and CC 4_p
+autism NN 4_p
+spectrum NN 4_p
+disorder NN 4_p
+( ( 4_p
+ASD NNP 4_p
+) ) 4_p
+Age-matched JJ N
+boys NNS N
+with IN N
+ADHD NNP N
+( ( N
+15 CD 3_p
+) ) N
+, , N
+ASD NNP N
+( ( N
+18 CD 3_p
+) ) N
+, , N
+and CC N
+controls NNS N
+( ( N
+21 CD 3_p
+) ) N
+-DOCSTART- -X- O O 18077611
+
+subjects NNS 1_p
+> VBP 1_p
+or CC 1_p
+=50 CD 1_p
+years NNS 1_p
+of IN 1_p
+age NN 1_p
+. . 1_p
+
+Subjects VBZ 4_p
+with IN 4_p
+a DT 4_p
+negative JJ 4_p
+history NN 4_p
+for IN 4_p
+HZ NNP 4_p
+Enrollment NN 1_p
+was VBD 1_p
+stratified VBN 1_p
+1:2 CD 1_p
+by IN 1_p
+age NN 1_p
+( ( 1_p
+50 CD 1_p
+to TO 1_p
+59 CD 1_p
+years NNS 1_p
+and CC 1_p
+> NN 1_p
+or CC 1_p
+=60 CD 1_p
+years NNS 1_p
+) ) 1_p
+-DOCSTART- -X- O O 6938020
+
+prostatic JJ 4_p
+cancer NN 4_p
+. . 4_p
+
+previously RB 4_p
+untreated JJ 4_p
+patients NNS 4_p
+with IN 4_p
+prostatic JJ 4_p
+cancer NN 4_p
+patients NNS 4_p
+with IN 4_p
+advanced JJ 4_p
+disease NN 4_p
+no RB 4_p
+longer RBR 4_p
+responsive VB 4_p
+to TO 4_p
+hormonal JJ 4_p
+treatment NN 4_p
+-DOCSTART- -X- O O 12139812
+
+pterygium NN 4_p
+] NN N
+pterygium NN 4_p
+. . 4_p
+
+208 CD 3_p
+patients NNS 3_p
+( ( N
+229 CD N
+eyes NNS N
+) ) N
+with IN N
+initial JJ 4_p
+pterygium NN 4_p
+pterygium NN N
+. . N
+
+-DOCSTART- -X- O O 9695300
+
+acute JJ 4_p
+bronchiolitis NN 4_p
+. . 4_p
+
+One CD 3_p
+hundred CD 3_p
+and CC 3_p
+fifty-six JJ 3_p
+infants NNS 1_p
+aged VBN 1_p
+between IN 1_p
+7 CD 1_p
+weeks NNS 1_p
+and CC 1_p
+24 CD 1_p
+months NNS 1_p
+who WP N
+had VBD N
+had VBN 4_p
+an DT 4_p
+episode NN 4_p
+of IN 4_p
+wheezing NN 4_p
+and CC 4_p
+other JJ 4_p
+signs NNS 4_p
+and CC 4_p
+symptoms NNS 4_p
+of IN 4_p
+bronchiolitis NN 4_p
+acute JJ N
+bronchiolitis NN N
+. . N
+
+-DOCSTART- -X- O O 2224060
+
+acute JJ 4_p
+nonlymphocytic JJ 4_p
+leukemia NN 4_p
+in IN N
+adults NNS 1_p
+. . N
+
+adult NN 1_p
+acute JJ 4_p
+nonlymphocytic JJ 4_p
+leukemia NN 4_p
+( ( 4_p
+ANLL NNP 4_p
+) ) 4_p
+The DT N
+101 CD 3_p
+eligible JJ N
+cases NNS N
+( ( N
+bestatin NN N
+: : N
+48 CD 3_p
+, , N
+control NN N
+: : N
+53 CD 3_p
+) ) N

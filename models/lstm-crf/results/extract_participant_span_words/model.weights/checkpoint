@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/results/extract_participant_span_words/model.weights/"
+all_model_checkpoint_paths: "/Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/results/extract_participant_span_words/model.weights/"

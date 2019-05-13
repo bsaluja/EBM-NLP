@@ -54,7 +54,7 @@ class Config():
     cwd = os.getcwd()
 
     # general config
-    dir_output = os.path.join(cwd, "results/test_only_period_removed/")
+    dir_output = os.path.join(cwd, "results/extract_participant_span_words/")
     dir_model  = os.path.join(dir_output, "model.weights/")
     path_log   = os.path.join(dir_output, "log.txt")
 

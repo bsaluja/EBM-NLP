@@ -327,8 +327,8 @@ class NERModel(BaseModel):
         correct_preds, total_correct, total_preds = 0., 0., 0.
 
         #Skipping punctuations while evaluation of state-of-the-art model
-        punctuations = string.punctuation
-        totalPunctuationsCount = 0
+        # punctuations = string.punctuation
+        # totalPunctuationsCount = 0
         totalGoldConditionSpansCount = 0
         totalPredictedConditionSpansCount = 0
         totalConditionSpansIntersectionCount = 0
@@ -343,23 +343,24 @@ class NERModel(BaseModel):
         #((abstractNum, numGoldConditionSpansPerAbstract, numPredictedConditionSpansPerAbstract, numConditionIntersectionsGoldPredicted, numConditionExactMatchGoldPredicted, goldConditionSpansPerAbstract, predictedConditionSpansPerAbstract, conditionIntersectionList, conditionExactMatchList))       
         final_condition_span_stats = []
 
-        punctuations_processed = []
-        punctuations_vocab = {}
-        for punct in punctuations:
-            punct_processed = self.config.processing_word(punct)
-            punctuations_processed.append(punct_processed)
-            punctuations_vocab[punct] = punct_processed
+        #Skipping punctuations while evaluation of state-of-the-art model
+        # punctuations_processed = []
+        # punctuations_vocab = {}
+        # for punct in punctuations:
+        #     punct_processed = self.config.processing_word(punct)
+        #     punctuations_processed.append(punct_processed)
+        #     punctuations_vocab[punct] = punct_processed
 
-        if not os.path.exists(self.config.dir_punctuations):
-            os.makedirs(self.config.dir_punctuations)
+        # if not os.path.exists(self.config.dir_punctuations):
+        #     os.makedirs(self.config.dir_punctuations)
 
-        filename_punctuations_vocab = os.path.join(self.config.dir_punctuations, "punct_vocab.txt")
-        with open(filename_punctuations_vocab, "w") as f:
-            for i, (key, value) in enumerate(punctuations_vocab.items()):
-                if i != len(punctuations_vocab) - 1:
-                    f.write("{} => {}\n".format(value,key))
-                else:
-                    f.write("{} => {}".format(value,key))
+        # filename_punctuations_vocab = os.path.join(self.config.dir_punctuations, "punct_vocab.txt")
+        # with open(filename_punctuations_vocab, "w") as f:
+        #     for i, (key, value) in enumerate(punctuations_vocab.items()):
+        #         if i != len(punctuations_vocab) - 1:
+        #             f.write("{} => {}\n".format(value,key))
+        #         else:
+        #             f.write("{} => {}".format(value,key))
 
         for words, labels in minibatches(test, self.config.batch_size):
 
@@ -368,29 +369,31 @@ class NERModel(BaseModel):
             abstractsNumList.append(abstractNum)
             print('Evaluating Abstract #%d:' %(abstractNum))
 
-            numPunctuationsPerAbstract = 0
-            punctuationsPerAbstract = {}
+            # numPunctuationsPerAbstract = 0
+            # punctuationsPerAbstract = {}
             numGoldConditionSpansPerAbstract = 0
             numPredictedConditionSpansPerAbstract = 0
             goldConditionSpansPerAbstract = []          #[[span1 indices], [span2 indices]]
             predictedConditionSpansPerAbstract = []     #[[span1 indices], [span2 indices]]
-            words_without_punctuation = []
-            unzipped = []
-            for (a,b) in words:
-                for (char_ids, word_id) in zip(a, b):
-                    unzipped += [(char_ids, word_id)]
+            
+            # Skipping punctuations while evaluation of state-of-the-art model
+            # words_without_punctuation = []
+            # unzipped = []
+            # for (a,b) in words:
+            #     for (char_ids, word_id) in zip(a, b):
+            #         unzipped += [(char_ids, word_id)]
 
-            for index, (char_ids, word_id) in enumerate(unzipped):
-                if (char_ids, word_id) in punctuations_processed:
-                    totalPunctuationsCount = totalPunctuationsCount + 1
-                    numPunctuationsPerAbstract = numPunctuationsPerAbstract + 1
-                    punctuationsPerAbstract[index] = ((char_ids, word_id))
-                    # print("Punctuation Found:: punct_char_id = " +  str(char_ids) + "; punct_word_id = " + str(word_id))
-                else:
-                    words_without_punctuation += [(char_ids, word_id)]
+            # for index, (char_ids, word_id) in enumerate(unzipped):
+            #     if (char_ids, word_id) in punctuations_processed:
+            #         totalPunctuationsCount = totalPunctuationsCount + 1
+            #         numPunctuationsPerAbstract = numPunctuationsPerAbstract + 1
+            #         punctuationsPerAbstract[index] = ((char_ids, word_id))
+            #         # print("Punctuation Found:: punct_char_id = " +  str(char_ids) + "; punct_word_id = " + str(word_id))
+            #     else:
+            #         words_without_punctuation += [(char_ids, word_id)]
 
-            if type(words_without_punctuation[0]) == tuple:
-                words = [zip(*words_without_punctuation)]
+            # if type(words_without_punctuation[0]) == tuple:
+            #     words = [zip(*words_without_punctuation)]
 
             labels_pred, sequence_lengths = self.predict_batch(words)
 
@@ -414,16 +417,16 @@ class NERModel(BaseModel):
                 l_pred += lab_pred
 
                 # print('Punctuations Count for Abstract #%d = %d' %(abstractNum, numPunctuationsPerAbstract))
-                if not os.path.exists(self.config.dir_punctuations):
-                    os.makedirs(self.config.dir_punctuations)
+                # if not os.path.exists(self.config.dir_punctuations):
+                #     os.makedirs(self.config.dir_punctuations)
 
-                filename_punctuations = os.path.join(self.config.dir_punctuations, "punctuationsAbstract{}.txt".format(abstractNum))
-                with open(filename_punctuations, "w") as f:
-                    for i, (index, punctuation) in enumerate(punctuationsPerAbstract.items()):
-                        if i != len(punctuationsPerAbstract) - 1:
-                            f.write("{}\t{}\n".format(index, punctuation))
-                        else:
-                            f.write("{}\t{}".format(index, punctuation))
+                # filename_punctuations = os.path.join(self.config.dir_punctuations, "punctuationsAbstract{}.txt".format(abstractNum))
+                # with open(filename_punctuations, "w") as f:
+                #     for i, (index, punctuation) in enumerate(punctuationsPerAbstract.items()):
+                #         if i != len(punctuationsPerAbstract) - 1:
+                #             f.write("{}\t{}\n".format(index, punctuation))
+                #         else:
+                #             f.write("{}\t{}".format(index, punctuation))
 
                 # partly match (intersection)
                 conditionIntersectionList = self.intersection_gold_predict_condition_spans(goldConditionSpansPerAbstract, predictedConditionSpansPerAbstract)
@@ -470,7 +473,7 @@ class NERModel(BaseModel):
             os.makedirs(self.config.dir_counts_eval_metrics)
         filename_counts_eval_metrics = os.path.join(self.config.dir_counts_eval_metrics, "counts_eval_metrics.txt")
         with open(filename_counts_eval_metrics, "w") as f:
-            f.write("totalPunctuationsCount = {}\n".format(totalPunctuationsCount))
+            # f.write("totalPunctuationsCount = {}\n".format(totalPunctuationsCount))
             f.write("totalGoldConditionSpansCount = {}\n".format(totalGoldConditionSpansCount))
             f.write("totalPredictedConditionSpansCount = {}\n".format(totalPredictedConditionSpansCount))
 
