@@ -1,0 +1,75 @@
+2019-05-13 09:38:54,731:WARNING: From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-05-13 09:38:57,664:WARNING: From /Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/model/ner_model.py:146: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-05-13 09:38:57,665:WARNING: From /Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/model/ner_model.py:151: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-05-13 09:38:57,666:WARNING: From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/ops/rnn.py:443: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-05-13 09:38:57,679:WARNING: From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/ops/rnn.py:626: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-05-13 09:38:57,905:WARNING: From /Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/model/ner_model.py:162: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-05-13 09:38:59,806:INFO: Initializing tf session
+2019-05-13 09:39:03,092:INFO: Epoch 1 out of 5
+2019-05-13 10:14:13,332:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=3.0 to DejaVu Sans ('/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-05-13 10:14:13,384:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-05-13 10:14:13,386:DEBUG: update_title_pos
+2019-05-13 10:14:13,390:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-05-13 10:14:13,462:DEBUG: update_title_pos
+2019-05-13 10:14:14,386:INFO: f1 0.29 - precision 0.62 - recall 0.19
+2019-05-13 10:14:15,551:INFO: - new best score!
+2019-05-13 10:14:15,551:INFO: Epoch 2 out of 5
+2019-05-13 10:48:11,100:DEBUG: update_title_pos
+2019-05-13 10:48:11,162:DEBUG: update_title_pos
+2019-05-13 10:48:12,078:INFO: f1 0.29 - precision 0.65 - recall 0.19
+2019-05-13 10:48:12,090:INFO: Epoch 3 out of 5
+2019-05-13 11:22:11,876:DEBUG: update_title_pos
+2019-05-13 11:22:11,955:DEBUG: update_title_pos
+2019-05-13 11:22:12,907:INFO: f1 0.38 - precision 0.64 - recall 0.27
+2019-05-13 11:22:13,825:INFO: - new best score!
+2019-05-13 11:22:13,825:INFO: Epoch 4 out of 5
+2019-05-13 11:58:06,656:DEBUG: update_title_pos
+2019-05-13 11:58:06,743:DEBUG: update_title_pos
+2019-05-13 11:58:07,703:INFO: f1 0.33 - precision 0.63 - recall 0.22
+2019-05-13 11:58:07,703:INFO: Epoch 5 out of 5
+2019-05-13 12:34:08,191:DEBUG: update_title_pos
+2019-05-13 12:34:08,257:DEBUG: update_title_pos
+2019-05-13 12:34:09,116:INFO: f1 0.36 - precision 0.58 - recall 0.26
+2019-05-13 12:35:18,762:WARNING: From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-05-13 12:35:19,959:WARNING: From /Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/model/ner_model.py:146: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-05-13 12:35:19,960:WARNING: From /Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/model/ner_model.py:151: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-05-13 12:35:19,960:WARNING: From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/ops/rnn.py:443: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-05-13 12:35:19,967:WARNING: From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/ops/rnn.py:626: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-05-13 12:35:20,222:WARNING: From /Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/model/ner_model.py:162: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-05-13 12:35:22,273:INFO: Initializing tf session
+2019-05-13 12:35:23,566:INFO: Reloading the latest trained model...
+2019-05-13 12:35:23,566:WARNING: From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-05-13 12:35:23,567:INFO: Restoring parameters from /Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/results/condition_or_not_binary_classifier/model.weights/
+2019-05-13 12:35:23,848:INFO: Testing model over test set
+2019-05-13 12:35:43,948:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=3.0 to DejaVu Sans ('/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-05-13 12:35:43,986:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-05-13 12:35:43,991:DEBUG: update_title_pos
+2019-05-13 12:35:43,997:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-05-13 12:35:44,063:DEBUG: update_title_pos
+2019-05-13 12:35:44,377:INFO: f1 0.39 - precision 0.89 - recall 0.25

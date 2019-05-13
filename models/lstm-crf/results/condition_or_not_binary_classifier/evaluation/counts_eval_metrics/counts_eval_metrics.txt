@@ -1,0 +1,2 @@
+totalGoldConditionSpansCount = 477
+totalPredictedConditionSpansCount = 248

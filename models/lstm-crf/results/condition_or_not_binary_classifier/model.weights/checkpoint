@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/results/condition_or_not_binary_classifier/model.weights/"
+all_model_checkpoint_paths: "/Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/results/condition_or_not_binary_classifier/model.weights/"

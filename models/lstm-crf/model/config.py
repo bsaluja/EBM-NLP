@@ -54,7 +54,7 @@ class Config():
     cwd = os.getcwd()
 
     # general config
-    dir_output = os.path.join(cwd, "results/extract_participant_span_words/")
+    dir_output = os.path.join(cwd, "results/condition_or_not_binary_classifier/")
     dir_model  = os.path.join(dir_output, "model.weights/")
     path_log   = os.path.join(dir_output, "log.txt")
 
