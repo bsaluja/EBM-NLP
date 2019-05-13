@@ -1,0 +1,77 @@
+2019-05-13 01:01:54,496:WARNING: From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-05-13 01:01:55,757:WARNING: From /Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/model/ner_model.py:146: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-05-13 01:01:55,758:WARNING: From /Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/model/ner_model.py:151: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-05-13 01:01:55,759:WARNING: From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/ops/rnn.py:443: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-05-13 01:01:55,774:WARNING: From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/ops/rnn.py:626: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-05-13 01:01:56,032:WARNING: From /Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/model/ner_model.py:162: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-05-13 01:01:58,118:INFO: Initializing tf session
+2019-05-13 01:02:00,500:INFO: Epoch 1 out of 5
+2019-05-13 01:35:53,807:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=3.0 to DejaVu Sans ('/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-05-13 01:35:54,793:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-05-13 01:35:54,816:DEBUG: update_title_pos
+2019-05-13 01:35:54,820:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-05-13 01:35:56,944:DEBUG: update_title_pos
+2019-05-13 01:36:00,760:INFO: f1 0.30 - precision 0.50 - recall 0.29
+2019-05-13 01:36:01,883:INFO: - new best score!
+2019-05-13 01:36:01,883:INFO: Epoch 2 out of 5
+2019-05-13 02:09:04,891:DEBUG: update_title_pos
+2019-05-13 02:09:06,999:DEBUG: update_title_pos
+2019-05-13 02:09:10,815:INFO: f1 0.34 - precision 0.51 - recall 0.37
+2019-05-13 02:09:11,687:INFO: - new best score!
+2019-05-13 02:09:11,688:INFO: Epoch 3 out of 5
+2019-05-13 02:40:57,291:DEBUG: update_title_pos
+2019-05-13 02:40:59,557:DEBUG: update_title_pos
+2019-05-13 02:41:04,069:INFO: f1 0.39 - precision 0.52 - recall 0.44
+2019-05-13 02:41:04,871:INFO: - new best score!
+2019-05-13 02:41:04,872:INFO: Epoch 4 out of 5
+2019-05-13 03:11:33,553:DEBUG: update_title_pos
+2019-05-13 03:11:35,538:DEBUG: update_title_pos
+2019-05-13 03:11:39,450:INFO: f1 0.39 - precision 0.52 - recall 0.43
+2019-05-13 03:11:40,058:INFO: - new best score!
+2019-05-13 03:11:40,058:INFO: Epoch 5 out of 5
+2019-05-13 03:42:07,026:DEBUG: update_title_pos
+2019-05-13 03:42:09,030:DEBUG: update_title_pos
+2019-05-13 03:42:12,415:INFO: f1 0.38 - precision 0.50 - recall 0.40
+2019-05-13 03:44:08,077:WARNING: From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-05-13 03:44:09,195:WARNING: From /Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/model/ner_model.py:146: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-05-13 03:44:09,196:WARNING: From /Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/model/ner_model.py:151: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-05-13 03:44:09,196:WARNING: From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/ops/rnn.py:443: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-05-13 03:44:09,204:WARNING: From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/ops/rnn.py:626: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-05-13 03:44:09,502:WARNING: From /Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/model/ner_model.py:162: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-05-13 03:44:11,580:INFO: Initializing tf session
+2019-05-13 03:44:12,735:INFO: Reloading the latest trained model...
+2019-05-13 03:44:12,735:WARNING: From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-05-13 03:44:12,736:INFO: Restoring parameters from /Users/bhavnasaluja/Desktop/Spring2019/EBM-NLP_forked/EBM-NLP/models/lstm-crf/results/test_all_puncts_removed/model.weights/
+2019-05-13 03:44:12,984:INFO: Testing model over test set
+2019-05-13 03:44:30,826:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=3.0 to DejaVu Sans ('/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-05-13 03:44:30,855:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-05-13 03:44:30,857:DEBUG: update_title_pos
+2019-05-13 03:44:30,863:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-05-13 03:44:30,939:DEBUG: update_title_pos
+2019-05-13 03:44:31,226:INFO: f1 0.41 - precision 0.43 - recall 0.38
