@@ -327,7 +327,8 @@ class NERModel(BaseModel):
         correct_preds, total_correct, total_preds = 0., 0., 0.
 
         #Skipping punctuations while evaluation of state-of-the-art model
-        punctuations = string.punctuation
+        # punctuations = string.punctuation
+        punctuations = ['.']
         totalPunctuationsCount = 0
         totalGoldConditionSpansCount = 0
         totalPredictedConditionSpansCount = 0
