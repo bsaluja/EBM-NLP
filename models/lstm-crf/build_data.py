@@ -181,7 +181,7 @@ def preprocess_data():
       for batch, ids in batch_to_ids.items():
         fout = open('data/%s_%s.txt' %(group_name, batch), 'w')
         for pmid in ids:
-          fout.write('-DOCSTART- -X- O O\n\n')
+          fout.write('-DOCSTART- -X- O O {}\n\n'.format(pmid))
           tokens = id_to_tokens[pmid]
           poss = id_to_pos[pmid]
           per_token_labels = zip(*id_to_labels_list[pmid])
